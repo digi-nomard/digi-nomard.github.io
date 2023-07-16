@@ -10,9 +10,9 @@ site-twitter: #if your site has a twitter account, enter it here
 #permalink: ':title/'
 
 # Author Settings
-author: NOMA # add your name
+author: WURG # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 우리가 알아야할 지식을 소개합니다. # add description
+about-author: 우알지\n우리가 알아야할 지식 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: digi-nomard # add your Github handle
