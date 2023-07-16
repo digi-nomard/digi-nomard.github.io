@@ -19,7 +19,26 @@ layout: main
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
-      {{content | markdownify}}
+      <div>{{site.url}}</div>
+      {% assign base_url = site.url | append: "/assets/img/post/1/" %}
+      <div>{{base_url}}</div>
+      
+      {% assign modified_content = content %}
+      {% assign img_start_tag = '<img src="' %}
+      {% assign img_end_tag = '"' %}
+      {% assign img_start_index = modified_content | split: img_start_tag %}
+      {% for i in (1..img_start_index.size) %}
+        {% assign img_src_start_index = img_start_index[i] | split: img_end_tag | first %}
+        {% unless img_src_start_index contains '/' %}
+          <div>{{img_src_start_index}}</div>
+          {% assign img_src = img_start_tag | append: img_src_start_index | append: img_end_tag %}
+          {% assign modified_img_src = img_start_tag | append: base_url | append: img_src_start_index | append: img_end_tag %}
+          {% assign modified_content = modified_content | replace: img_src, modified_img_src %}
+        {% endunless %}
+      {% endfor %}
+      
+      {{ modified_content | markdownify }}
+
       <div class="page-footer">
         <div class="page-share">
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
