@@ -21,8 +21,7 @@
 title: 우알지 (우리가 알아야할 지식)
 email: doum1004@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  우리가 알아야할 지식
-  (Knowledge we have to know)
+  우리가 알아야할 지식을 소개합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "digi-nomard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: partykoreapeople
