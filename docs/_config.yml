@@ -28,7 +28,7 @@ twitter_username: partykoreapeople
 github_username:  digi-nomard
 
 # Build settings
-theme: minima
+theme: Flexible-Jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
