@@ -1,12 +1,21 @@
 ---
 layout: post
-title:  "Test10!"
-date:   2023-07-15 23:00:00 -0400
+title:  "Test88!"
+date:   2023-07-15 22:00:00 -0400
 categories: jekyll update
 ---
 
+![Drag Racing](/docs/assets/images/t.jpg)
+
+![Drag Racing](docs/assets/images/t.jpg)
+
+![Drag Racing](/assets/images/t.jpg)
+
 ![Drag Racing](t.jpg)
+
 ![Drag Racing](/t.jpg)
+
+![Drag Racing](/assets/t.jpg)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
