@@ -28,15 +28,12 @@ url: "digi-nomard.github.io" # the base hostname & protocol for your site, e.g. 
 github_username:  digi-nomard
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-remote-theme
-
-remote_theme: wowthemesnet/mundana-theme-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
