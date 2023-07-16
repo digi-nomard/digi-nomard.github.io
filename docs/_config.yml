@@ -1,40 +1,65 @@
-title: 우알지 (우리가 알아야할 지식)
-email: doum1004@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  우리가 알아야할 지식을 소개합니다.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "digi-nomard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: partykoreapeople
-github_username:  digi-nomard
-site-twitter: #if your site has a twitter account, enter it here
-#permalink: ':title/'
+# Site
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/mundana-theme-jekyll'
+disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-# Author Settings
-author: 우알지 (WURG) # add your name
-author-img: logo.png # add your photo
-about-author: 우리가 알아야할 지식 # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: digi-nomard # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+include: ["_pages"]
+permalink: /:title/
 
-# Disqus
-#discus-identifier: mr-brown # add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
-
-# Build Settings
-markdown: kramdown
-plugins:
+# Plugins
+plugins: 
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
-  # - jekyll-seo-tag
-  # - jekyll-feed
+  - jekyll-seo-tag
+  
+authors:
+    sal:
+      name:           Sal
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
 
-paginate: 8
-paginate_path: "/page/:num"
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+ 
+# Defaults
+defaults:
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
