@@ -36,7 +36,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-remote_theme: https://github.com/topics/jekyll-theme
+remote_theme: artemsheludko/flexible-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
