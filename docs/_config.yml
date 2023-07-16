@@ -28,7 +28,7 @@ url: "digi-nomard.github.io" # the base hostname & protocol for your site, e.g. 
 github_username:  digi-nomard
 
 # Build settings
-theme: Flexible-Jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
