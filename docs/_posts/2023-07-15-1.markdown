@@ -5,6 +5,10 @@ date:   2023-07-15 20:00:00 -0400
 categories: jekyll update
 ---
 
+![Drag Racing](/docs/assets/images/_t.jpg)
+
+![Drag Racing](docs/assets/images/_t.jpg)
+
 ![Drag Racing](/assets/images/_t.jpg)
 
 ![Drag Racing](_t.jpg)
