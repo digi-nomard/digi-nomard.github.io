@@ -50,6 +50,11 @@ post_class: post-template
                 </div>
             </div>
 
+            {% if page.youtube %}
+            {% assign page_key = page.youtube | split: 'v=' | last %}
+                <iframe width="90%" height="360" src="https://www.youtube.com/embed/{{ page_key }}?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            {% endif %}
+
             {% assign modified_content = content %}
             {% assign img_start_tag = '<img src="' %}
             {% assign img_end_tag = '"' %}
@@ -62,6 +67,7 @@ post_class: post-template
                 {% assign modified_content = modified_content | replace: img_src, modified_img_src %}
               {% endunless %}
             {% endfor %}
+            
             
             {% assign video_start_tag = '![https://www.youtube.com/watch?v=' %}
             {% assign video_end_tag = ']' %}

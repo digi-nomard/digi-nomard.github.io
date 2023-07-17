@@ -4,11 +4,11 @@ title:  "우리가 알아야 할 물리법칙"
 date: 2023-06-02 07:00:00 GMT+9
 categories: [ 우알지 ]
 image: 0fae1001/intro_1.jpg
+youtube: https://www.youtube.com/watch?v=lOUwBFiqtak
 uuid: 0fae1001
 ---
-우리가 알아야 할 3가지 물리법칙에 대해 알려드릴게요.
 
-![https://www.youtube.com/watch?v=lOUwBFiqtak]
+우리가 알아야 할 3가지 [물리법칙][topic]에 대해 알려드릴게요.
 
 ## 첫 번째 운동의 법칙
 
@@ -32,3 +32,6 @@ F = MA. 물체는 처음에 가속도를 받으면 움직이게 되고, 질량�
 ![3_2.jpg](0fae1001/3_2.jpg)
 
 ![con_1.jpg](0fae1001/con_1.jpg)
+
+
+[topic]: https://www.google.com/search?q=[물리법칙][topic]
