@@ -1,4 +1,4 @@
-title: "우알지 @WU-RG"
+title: "우알지"
 email: doum1004@gmail.com
 timezone: Etc/GMT+9
 baseurl: ''
@@ -21,6 +21,9 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: G-X495X0K5ZC
+
+about: "우알지 @WU-RG"
+about_description: "우리가 알아야할 지식을 전합니다"
 
 # Authors
 authors:

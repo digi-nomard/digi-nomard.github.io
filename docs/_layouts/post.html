@@ -15,28 +15,40 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
         
 		<div class="col-sm-8">
-            <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
-			<div class="mainheading">             
-                
-                <!-- Post Categories -->
-                <div class="after-post-tags">
-                    <ul class="tags">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li>
-                         <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
+            {% assign asset_url = "../assets/images/post/" %}
+            
+            <div class="image-container">
+                <!-- Post Featured Image -->
+                {% if page.image %}
+                <img class="featured-image img-fluid rounded" src="{{ asset_url }}{{ page.image }}" alt="{{ page.title }}">
+                {% else %}
+                <div class="empty-image-container"></div>
+                {% endif %}
+
+                <!-- End Featured Image -->
+                <div class="mainheading">
+                    <div class="overlay-text">
+                        <!-- Post Categories -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                                {% assign sortedCategories = page.categories | sort %}
+                                {% for category in sortedCategories %}
+                                <li>
+                                <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
+
+                        <h1 class="posttitle">{{ page.title }}</h1>
+
+                        <div class="heading-meta">
+                            {{ page.date | date: "%Y %B %d, %H:%M:%S" }}
+                        </div>
+                    </div>
                 </div>
-                <!-- End Categories -->
-                
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
-			</div>
+            </div>
 
             {% assign modified_content = content %}
             {% assign img_start_tag = '<img src="' %}
@@ -44,11 +56,23 @@ post_class: post-template
             {% assign img_start_index = modified_content | split: img_start_tag %}
             {% for i in (1..img_start_index.size) %}
               {% assign img_src_start_index = img_start_index[i] | split: img_end_tag | first %}
-              {% if img_src_start_index contains '..' %}
+              {% unless img_src_start_index contains 'http' %}
                 {% assign img_src = img_start_tag | append: img_src_start_index | append: img_end_tag %}
-                {% assign modified_img_src = img_start_tag | append: base_url | append: img_src_start_index | remove: '..' | append: img_end_tag %}
+                {% assign modified_img_src = img_start_tag | append: asset_url | append: img_src_start_index | append: img_end_tag %}
                 {% assign modified_content = modified_content | replace: img_src, modified_img_src %}
-              {% endif %}
+              {% endunless %}
+            {% endfor %}
+            
+            {% assign video_start_tag = '![https://www.youtube.com/watch?v=' %}
+            {% assign video_end_tag = ']' %}
+            {% assign iframe_tag = '<iframe width="90%" height="360" src="https://www.youtube.com/embed/' %}
+            {% assign iframe_options = '?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>' %}            
+            {% assign video_start_index = modified_content | split: video_start_tag %}
+            {% for i in (1..video_start_index.size) %}
+              {% assign video_code = video_start_index[i] | split: video_end_tag | first %}
+              {% assign video_url = video_start_tag | append: video_code | append: video_end_tag %}
+              {% assign iframe_url = iframe_tag | append: video_code | append: iframe_options %}
+              {% assign modified_content = modified_content | replace: video_url, iframe_url %}
             {% endfor %}
 
 			<!-- Post Content -->

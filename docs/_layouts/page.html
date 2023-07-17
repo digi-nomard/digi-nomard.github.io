@@ -2,9 +2,10 @@
 layout: default
 ---
 <!-- Post Featured Image -->
+{% assign asset_url = "assets/images/post" %}
 {% if page.image %}
 <div class="text-center mx-auto mb-5">
-  <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+  <img class="featured-image text-center mx-auto rounded" src="{{ asset_url }}/{{ page.image }}" alt="{{ page.title }}">
 </div>
 {% endif %}
 <!-- End Featured Image -->

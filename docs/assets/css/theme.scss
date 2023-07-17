@@ -202,6 +202,14 @@ small, .small {
     letter-spacing:0;
 }
 .layout-page .section-title h2:before {top:17px;}
+
+.article-post img {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    margin: 1rem;
+}
+
 .article-post ol, .article-post ul { margin-bottom:1.5rem;}
 .article-post ol ol, .article-post ul ul {   
     list-style: disc;
@@ -286,7 +294,10 @@ span.post-name a,span.post-read-more a:hover {
 }
 .mainheading h1.posttitle {
 	font-weight:700;
-	margin-bottom:2rem;
+	margin-bottom:1rem;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8);
+    -webkit-text-stroke: 0.2px white; /* For Safari and Chrome */
+    text-stroke: 0.2px rgb(255, 255, 255); /* For other browsers */
 }
 .link-dark {
 	color:rgba(0,0,0,.8);
@@ -296,7 +307,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .article-post {
     font-size: 1.18em;
-    line-height: 1.64;
+    line-height: 1.75;
 	color:rgba(0,0,0,.8);
     code {
         font-size:15px;
@@ -549,6 +560,48 @@ background-color: #fff;
 
 img {max-width:100%;height: auto;}
 
+.center-cut-box {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 230px;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  }
+  
+  .empty-image-container {
+	background: #b7ac7d;
+    opacity: 0.5;
+    height: 350px;
+  }
+
+  .heading-meta {
+    font-size:15px;
+  }
+  
+  .image-container img {
+    opacity: 0.5;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    width: 90%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    font-size: 24px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  }
+  
 .bottompagination span.navigation a {
 	background: #fdd93d;
     color: #333;
