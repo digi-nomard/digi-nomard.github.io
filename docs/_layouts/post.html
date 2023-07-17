@@ -38,11 +38,22 @@ post_class: post-template
                 
 			</div>
 
-			
+            {% assign modified_content = content %}
+            {% assign img_start_tag = '<img src="' %}
+            {% assign img_end_tag = '"' %}
+            {% assign img_start_index = modified_content | split: img_start_tag %}
+            {% for i in (1..img_start_index.size) %}
+              {% assign img_src_start_index = img_start_index[i] | split: img_end_tag | first %}
+              {% if img_src_start_index contains '..' %}
+                {% assign img_src = img_start_tag | append: img_src_start_index | append: img_end_tag %}
+                {% assign modified_img_src = img_start_tag | append: base_url | append: img_src_start_index | remove: '..' | append: img_end_tag %}
+                {% assign modified_content = modified_content | replace: img_src, modified_img_src %}
+              {% endif %}
+            {% endfor %}
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
-				{{content}}
+				{{modified_content}}
                 <div class="clearfix"></div>
 			</div>
 

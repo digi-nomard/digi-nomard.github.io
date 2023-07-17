@@ -30,7 +30,6 @@ layout: main
       {% for i in (1..img_start_index.size) %}
         {% assign img_src_start_index = img_start_index[i] | split: img_end_tag | first %}
         {% if img_src_start_index contains '..' %}
-          <div>{{img_src_start_index}}</div>
           {% assign img_src = img_start_tag | append: img_src_start_index | append: img_end_tag %}
           {% assign modified_img_src = img_start_tag | append: base_url | append: img_src_start_index | remove: '..' | append: img_end_tag %}
           {% assign modified_content = modified_content | replace: img_src, modified_img_src %}

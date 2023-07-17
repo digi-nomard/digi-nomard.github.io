@@ -4,14 +4,14 @@ topmenu:
 - title: Home
   url: ""
 
-- title: About
-  url: "about/"
+# - title: About
+#   url: "about/"
 
-- title: Contact
-  url: "contact/"
+# - title: Contact
+#   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Youtube
+  url: https://www.youtube.com/channel/UCr4Gt6-RirFWgtpaduAP20A
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -21,12 +21,12 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+# - title: Privacy Policy
+#   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+# - title: Contact
+#   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Youtube
+  url: https://www.youtube.com/channel/UCr4Gt6-RirFWgtpaduAP20A
   external: true

@@ -1,13 +1,13 @@
-title: "우알지 (WURG)"
+title: "우알지 @WU-RG"
 email: doum1004@gmail.com
-timezone: UTC+9
+timezone: Etc/GMT+9
 baseurl: ''
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: DIGINOM
 paginate: 30
-disqus: 'demowebsite'
+# disqus: 'demowebsite'
 locale: ko_kr
 lang: ko_kr
 feed_items: 10
