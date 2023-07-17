@@ -1,10 +1,11 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 {% assign asset_url = "../assets/post/" | append: post.uuid | append: "/" %}
+
 <div class="card">
     <a href="{{ post.url | absolute_url }}">
         <div class="center-cut-box">
-            {% if post.image %} <img class="center-cut-box rounded mb-4" src="{{ asset_url }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
+            {% if post.image %} <img class="center-cut-box rounded mb-4" src="{{ asset_url }}{{ post.image }}" alt="{{ post.title }}"> {% endif %}
         </div>
     </a>
     <div class="card-block">
