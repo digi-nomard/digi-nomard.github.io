@@ -3,7 +3,7 @@ layout: post
 title:  "Powerful things you can do with the Markdown editor"
 author: dgn
 categories: [ Jekyll, tutorial ]
-image: 4.jpg
+image: etc/4.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
 

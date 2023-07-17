@@ -15,7 +15,7 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
         
 		<div class="col-sm-8">
-            {% assign asset_url = "../assets/images/post/" %}
+            {% assign asset_url = "../assets/post/" | append: page.uuid | append: "/" %}
             
             <div class="image-container">
                 <!-- Post Featured Image -->
@@ -52,7 +52,7 @@ post_class: post-template
 
             {% if page.youtube %}
             {% assign page_key = page.youtube | split: 'v=' | last %}
-                <iframe width="90%" height="360" src="https://www.youtube.com/embed/{{ page_key }}?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <p><iframe width="90%" height="360" src="https://www.youtube.com/embed/{{ page_key }}?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
             {% endif %}
 
             {% assign modified_content = content %}

@@ -1,6 +1,6 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-{% assign asset_url = "assets/images/post" %}
+{% assign asset_url = "../assets/post/" | append: post.uuid | append: "/" %}
 <div class="card">
     <a href="{{ post.url | absolute_url }}">
         <div class="center-cut-box">
