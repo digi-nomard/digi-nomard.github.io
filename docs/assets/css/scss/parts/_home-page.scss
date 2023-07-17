@@ -53,7 +53,7 @@
       background-color: $body-color;
     }
   }
-  p {
+  .author-about {
     font-size: 16px;
     margin: 0 0 10px;
   }
@@ -127,7 +127,7 @@
 }
 
 footer {
-  .copyright {
+  .contact, .copyright {
     font-size: 14px;
     text-align: center;
     margin: 0;

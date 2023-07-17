@@ -994,7 +994,7 @@ table tfoot td {
   background-color: #515151;
 } */
 
-.about p {
+.about .author-about {
   font-size: 16px;
   margin: 0 0 10px;
 }
@@ -1445,7 +1445,7 @@ a.newer-posts:hover {
         -ms-flex-align: stretch;
             align-items: stretch;
   }
-  .contact-title, .copyright {
+  .author-about, .contact, .contact-title, .copyright {
     display: none;
   }
 }
