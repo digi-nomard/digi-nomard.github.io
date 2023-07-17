@@ -1,0 +1,40 @@
+title: 우알지 (우리가 알아야할 지식)
+email: doum1004@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  우리가 알아야할 지식을 소개합니다.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "digi-nomard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: partykoreapeople
+github_username:  digi-nomard
+site-twitter: #if your site has a twitter account, enter it here
+#permalink: ':title/'
+
+# Author Settings
+author: 우알지 (WURG) # add your name
+author-img: logo.png # add your photo
+about-author: 우리가 알아야할 지식 # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: digi-nomard # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+#discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  # - jekyll-seo-tag
+  # - jekyll-feed
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

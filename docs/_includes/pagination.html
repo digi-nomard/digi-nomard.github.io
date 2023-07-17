@@ -1,21 +1,13 @@
-<div class="container">
-  <nav class="pagination" role="pagination">
-    <ul>
-      {% if paginator.previous_page %}
+<nav class="pagination" role="pagination">
+    {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
+            <a class="newer-posts" href="{{site.baseurl}}/" title="Previous Page">&laquo; Newer</a>
         {% else %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
-        {% endif %}
+            <a class="newer-posts" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Previous Page">&laquo; Newer </a>
       {% endif %}
-
-      {% if paginator.total_pages > 1 %}
-      <p><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}</span></p>
-      {% endif %}
-      
-      {% if paginator.next_page %}
-      <p><a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p>
-      {% endif %}
-    </ul>
-  </nav>
-</div>
+    {% endif %}
+    <span class="page-number d-none"> &nbsp; &nbsp; Page {{paginator.page}} of {{paginator.total_pages}} &nbsp; &nbsp; </span>
+    {% if paginator.next_page %} 
+        <a class="older-posts" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Next Page">Older &raquo;</a>
+    {% endif %} 
+</nav>
