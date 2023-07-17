@@ -5,7 +5,7 @@ baseurl: ''
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: DIGINOM
+author: DGN
 paginate: 30
 # disqus: 'demowebsite'
 locale: ko_kr
@@ -24,6 +24,15 @@ ganalytics: G-X495X0K5ZC
 gadsense: 9815439126917243
 bingmeta: DDD088C441EB7E70576FA1AA1813B8DD
 navermeta: ac86cfd9b4c8420f3952b13037f6e932f03f6d4c"
+
+webmaster_verifications:
+  google: 9815439126917243
+  bing: DDD088C441EB7E70576FA1AA1813B8DD
+  navermeta: ac86cfd9b4c8420f3952b13037f6e932f03f6d4c
+  # alexa: 1234
+  # yandex: 1234
+  # baidu: 1234
+  # facebook: 1234
 
 about: "우알지 @WU-RG"
 about_description: "우리가 알아야할 지식을 전합니다"
