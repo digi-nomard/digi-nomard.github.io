@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="msvalidate.01" content="{{site.bingmeta}}" />
 <meta name="naver-site-verification" content="{{site.navermeta}}" />
+
+{% assign image_url = {{ page.url | prepend: site.baseurl | prepend: site.url }} | append: "/assets/post/" | append: page.uuid | append: "/" | append: page.image %}
+<meta property="og:image" content="{{image_url}}" />
+<meta property="twitter:image" content="{{image_url}}" />
+
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
 <title>{{ page.title }} | {{site.title}}</title>
