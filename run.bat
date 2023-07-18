@@ -1,1 +1,1 @@
-cd docs && bundle && bundle install && jekyll serve --watch && cd ..
+copy_post_assets && cd docs && bundle && bundle install && jekyll serve --watch && cd ..

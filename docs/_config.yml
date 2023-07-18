@@ -1,4 +1,4 @@
-title: "우알지"
+title: "WURG"
 email: doum1004@gmail.com
 timezone: Etc/GMT+9
 baseurl: ''
@@ -35,7 +35,7 @@ webmaster_verifications:
   # facebook: 1234
 
 about: "우알지 @WU-RG"
-about_description: "우리가 알아야할 지식을 전합니다"
+about_description: "Information we must know"
 
 # Authors
 authors:
