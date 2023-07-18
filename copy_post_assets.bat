@@ -1,0 +1,1 @@
+python scripts/copy_post_assets.py "docs\_posts" "docs\assets\post"
