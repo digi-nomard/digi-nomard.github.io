@@ -6,14 +6,17 @@
 <meta name="msvalidate.01" content="{{site.bingmeta}}" />
 <meta name="naver-site-verification" content="{{site.navermeta}}" />
 
+{% if page.image %}
 {% assign image_url = {{ page.url | prepend: site.baseurl | prepend: site.url }} | append: "/assets/post/" | append: page.uuid | append: "/" | append: page.image %}
+{% else %}
+{% assign image_url = {{ page.url | prepend: site.baseurl | prepend: site.url }} | append: "/" | append: {{site.logo}} %}
+{% endif %}
 <meta property="og:image" content="{{image_url}}" />
 <meta property="twitter:image" content="{{image_url}}" />
 
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
-<title>{{ page.title }} | {{site.title}}</title>
-
+<!-- <title>{{ page.title }} | {{site.title}}</title> In SEO-->
 {% seo %}
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">

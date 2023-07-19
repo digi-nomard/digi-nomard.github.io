@@ -1,0 +1,17 @@
+---
+title: "Korean"
+layout: default
+permalink: "/korean.html"
+---
+<h4 class="mt-5 mb-4 pb-2 border-bottom"><span class="text-capitalize small font-weight-bold">In Korean</span></h4>
+{% for post in site.posts %}
+{% if post.lang == "ko" %}
+<section class="row">
+<div class="row">
+    <div class="col-md-10 mb-5">
+        {% include postbox-row.html %}
+    </div>
+</div>
+</section>
+{% endif %}
+{% endfor %}

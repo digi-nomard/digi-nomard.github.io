@@ -31,6 +31,10 @@
   }
 }
 
+.card-horizontal {
+  flex-direction: row;
+}
+
 .card-body {
   // Enable `flex-grow: 1` for decks and groups so that card blocks take up
   // as much space as possible, ensuring footers are aligned to the bottom.

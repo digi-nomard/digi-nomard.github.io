@@ -10,6 +10,9 @@ topmenu:
 # - title: Contact
 #   url: "contact/"
 
+- title: Category
+  url: "categories/"
+
 - title: Youtube
   url: https://www.youtube.com/channel/UCr4Gt6-RirFWgtpaduAP20A
   class: "ml-2 btn btn-dark text-white px-3"
@@ -24,8 +27,8 @@ footermenu:
 # - title: Privacy Policy
 #   url: "privacy-policy/"
 
-# - title: Contact
-#   url: "contact/"
+- title: Category
+  url: "categories/"
 
 - title: Youtube
   url: https://www.youtube.com/channel/UCr4Gt6-RirFWgtpaduAP20A
