@@ -1,5 +1,5 @@
-title: "WURG"
-description: "Information we must know"
+title: "WURG 우알지 (우리가 알아야할 지식)"
+description: "WURG 우알지 (죽기전에 우리가 알아야할 지식, Information we must know)"
 email: doum1004@gmail.com
 timezone: Etc/GMT+9
 baseurl: ''
@@ -36,6 +36,7 @@ webmaster_verifications:
   # facebook: 1234
 
 about: "우알지 @WU-RG"
+about_detail: "우리가 알아야할 지식을 공유합니다.<br/>Share the knowledge we must know."
 
 # Authors
 authors:
@@ -50,7 +51,7 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/wu-rg/
+  instagram: https://www.instagram.com/wurg.bz/
   # facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
   # twitter: https://twitter.com/bstartercom
 
