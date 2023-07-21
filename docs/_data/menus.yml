@@ -14,7 +14,7 @@ topmenu:
   url: "categories/"
 
 - title: Youtube
-  url: https://www.youtube.com/channel/UCr4Gt6-RirFWgtpaduAP20A
+  url: https://www.youtube.com/@WU-RG
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -31,5 +31,5 @@ footermenu:
   url: "categories/"
 
 - title: Youtube
-  url: https://www.youtube.com/channel/UCr4Gt6-RirFWgtpaduAP20A
+  url: https://www.youtube.com/@WU-RG
   external: true

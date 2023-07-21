@@ -50,11 +50,27 @@ post_class: post-template
                 </div>
             </div>
 
+            <!-- Show page youtube clips as iframe -->
+            <!-- In Title -->
             {% if page.youtube %}
             {% assign page_key = page.youtube | split: 'v=' | last %}
                 <p><iframe width="90%" height="360" src="https://www.youtube.com/embed/{{ page_key }}?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
             {% endif %}
+            
+            <!-- In Context -->
+            {% assign video_start_tag = '![https://www.youtube.com/watch?v=' %}
+            {% assign video_end_tag = ']' %}
+            {% assign iframe_tag = '<iframe width="95%" height="360" src="https://www.youtube.com/embed/' %}
+            {% assign iframe_options = '?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>' %}            
+            {% assign video_start_index = modified_content | split: video_start_tag %}
+            {% for i in (1..video_start_index.size) %}
+              {% assign video_code = video_start_index[i] | split: video_end_tag | first %}
+              {% assign video_url = video_start_tag | append: video_code | append: video_end_tag %}
+              {% assign iframe_url = iframe_tag | append: video_code | append: iframe_options %}
+              {% assign modified_content = modified_content | replace: video_url, iframe_url %}
+            {% endfor %}
 
+            <!-- Show right image url -->
             {% assign modified_content = content %}
             {% assign img_start_tag = '<img src="' %}
             {% assign img_end_tag = '"' %}
@@ -66,19 +82,6 @@ post_class: post-template
                 {% assign modified_img_src = img_start_tag | append: asset_url | append: img_src_start_index | append: img_end_tag %}
                 {% assign modified_content = modified_content | replace: img_src, modified_img_src %}
               {% endunless %}
-            {% endfor %}
-            
-            
-            {% assign video_start_tag = '![https://www.youtube.com/watch?v=' %}
-            {% assign video_end_tag = ']' %}
-            {% assign iframe_tag = '<iframe width="95%" height="360" src="https://www.youtube.com/embed/' %}
-            {% assign iframe_options = '?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>' %}            
-            {% assign video_start_index = modified_content | split: video_start_tag %}
-            {% for i in (1..video_start_index.size) %}
-              {% assign video_code = video_start_index[i] | split: video_end_tag | first %}
-              {% assign video_url = video_start_tag | append: video_code | append: video_end_tag %}
-              {% assign iframe_url = iframe_tag | append: video_code | append: iframe_options %}
-              {% assign modified_content = modified_content | replace: video_url, iframe_url %}
             {% endfor %}
 
 			<!-- Post Content -->
