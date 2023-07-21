@@ -39,4 +39,3 @@ Known for its bustling street markets, ornate temples, and vibrant nightlife, Ba
 These three cities, Singapore, Kuala Lumpur, and Bangkok, offer unique experiences and opportunities to residents, making them the top choices for those seeking the best cities to live in South East Asia.
 
 ![](images/intro_4.jpg)
-![](images/intro_6.jpg)

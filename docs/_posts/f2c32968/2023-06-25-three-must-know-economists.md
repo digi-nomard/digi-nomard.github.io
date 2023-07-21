@@ -39,5 +39,3 @@ Milton Friedman was an American economist and Nobel laureate known for his advoc
 These three economists have shaped the way we understand and analyze economic systems. Their contributions continue to shape economic theories and policies around the world.
 
 ![](images/intro_2.jpg)
-![](images/intro_4.jpg)
-![](images/intro_5.jpg)

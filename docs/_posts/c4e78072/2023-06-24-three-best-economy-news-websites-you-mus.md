@@ -39,6 +39,3 @@ CNBC is a popular choice for business and finance news. It provides live market 
 These three economy news websites offer valuable insights into the world of finance and economics. Whether you're a business professional, investor, or simply interested in the subject, these websites are must-visits for staying informed.
 
 ![](images/intro_4.jpg)
-![](images/intro_5.jpg)
-![](images/intro_6.jpg)
-![](images/intro_8.jpg)

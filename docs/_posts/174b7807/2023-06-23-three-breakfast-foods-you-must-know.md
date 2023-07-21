@@ -39,6 +39,3 @@ Greek yogurt is a creamy and delicious breakfast option that is high in protein 
 Incorporating these three breakfast foods into your morning routine can set you up for a productive and energetic day. Remember to choose whole grain options, incorporate fruits and vegetables, and keep your breakfast balanced and nutritious.
 
 ![](images/Food_for_breakfast_Image_2.jpg)
-![](images/Food_for_breakfast_Image_3.jpg)
-![](images/Food_for_breakfast_Image_4.jpeg)
-![](images/Food_for_breakfast_Image_5.jpg)
