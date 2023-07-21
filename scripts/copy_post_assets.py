@@ -23,6 +23,28 @@ class Utils:
     def __init__(self):
         pass
 
+    def renameFolderByMDTitle(dir):
+        # iterante all subfolders and find all md files
+        # rename md file to date(yyyy-mm-dd)-title.md
+        for root, dirs, files in os.walk(dir):
+            for file in files:
+                if file.endswith(".md"):
+                    # read md file
+                    md_file = os.path.join(root, file)
+                    md_file_content = open(md_file, "r", encoding="utf-8").read()
+                    # find date, split by space and get first element
+                    date = re.search(r"date: (.*)", md_file_content).group(1).split(" ")[0]
+                    # find title
+                    title = re.search(r"title: (.*)", md_file_content).group(1)
+                    # remove special characters (Except -) but keep other languages
+                    title = re.sub(r"[^\w\s-]", "", title).strip()
+                    # remove spaces and lower
+                    title = title.replace(" ", "-").lower()[:40]
+                    # rename md file
+                    new_md_file = os.path.join(root, date + "-" + title + ".md")
+                    os.rename(md_file, new_md_file)
+
+
     def deleteFolder(dir):
         if os.path.exists(dir):
             shutil.rmtree(dir)
@@ -67,5 +89,6 @@ class Utils:
 
 # main with 2 parms (source dir, destination dir)
 if __name__ == "__main__":
+    Utils.renameFolderByMDTitle(sys.argv[1])
     Utils.deleteFolder(sys.argv[2])
     Utils.copyFolders(sys.argv[1], sys.argv[2])
