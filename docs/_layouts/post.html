@@ -57,6 +57,7 @@ post_class: post-template
                 <p><iframe width="90%" height="360" src="https://www.youtube.com/embed/{{ page_key }}?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
             {% endif %}
             
+            {% assign modified_content = content %}
             <!-- In Context -->
             {% assign video_start_tag = '![https://www.youtube.com/watch?v=' %}
             {% assign video_end_tag = ']' %}
@@ -71,7 +72,6 @@ post_class: post-template
             {% endfor %}
 
             <!-- Show right image url -->
-            {% assign modified_content = content %}
             {% assign img_start_tag = '<img src="' %}
             {% assign img_end_tag = '"' %}
             {% assign img_start_index = modified_content | split: img_start_tag %}
@@ -84,6 +84,19 @@ post_class: post-template
               {% endunless %}
             {% endfor %}
 
+            <!-- don't show image which contains alt="hide" -->
+            {% assign modified_content = modified_content %}
+            {% assign img_start_tag = '<img src=' %}
+            {% assign img_end_tag = '>' %}
+            {% assign img_start_index = modified_content | split: img_start_tag %}
+            {% for i in (1..img_start_index.size) %}
+                {% assign img_src_start_index = img_start_index[i] | split: img_end_tag | first %}
+                {% if img_src_start_index contains 'alt="hide"' %}
+                    {% assign img_src = img_start_tag | append: img_src_start_index | append: img_end_tag %}
+                    {% assign modified_content = modified_content | replace: img_src, '' %}
+                {% endif %}
+            {% endfor %}
+            
 			<!-- Post Content -->
 			<div class="article-post serif-font">
 				{{modified_content}}
