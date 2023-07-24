@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3 Essential Tips for Waking Up Early"
+description: "Wake up feeling refreshed and energized with these valuable insights on how to wake up early. Establish a consistent sleep routine, create a morning ritual, and optimize your sleep environment for a productive start to your day. #WakeUpEarly #MorningRoutine #SleepWell #ProductivityTips"
 date: 2023-06-20 07:00:00 GMT+9
 categories: [ 'Habit' ]
 image: images/How_to_wake_up_early_Image_1.jpg

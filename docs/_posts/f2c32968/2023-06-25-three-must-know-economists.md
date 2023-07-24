@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three Must-Know Economists"
+description: ""
 date: 2023-06-25 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg

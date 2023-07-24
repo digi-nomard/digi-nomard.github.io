@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three Breakfast Foods You Must Know"
+description: "Start your day right with a nutritious breakfast that provides the energy and nutrients you need. Discover three essential breakfast foods that will kick-start your morning. Enjoy a bowl of fiber-rich #Oatmeal, known for its cholesterol-lowering benefits and heart health. Fuel your body with protein-packed #Eggs, packed with essential vitamins and minerals. Indulge in creamy #GreekYogurt, high in protein and probiotics for a healthy gut. Incorporate these breakfast foods into your routine for a productive and energetic day. #HealthyBreakfast #NutritionTips #StartYourDayRight #BreakfastIdeas"
 date: 2023-06-23 00:00:00 UTC+09:00"
 categories: 
 image: images/Food_for_breakfast_Image_1.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top 3 Cities to Live in South East Asia"
+description: "Explore the influential economists who have shaped the field of economics. Discover three must-know economists who have made significant contributions to the discipline. Learn about #AdamSmith, the father of modern economics, and his concept of the invisible hand. Explore the ideas of #JohnMaynardKeynes, whose economic policies revolutionized the Great Depression era. Understand the impact of #MiltonFriedman's advocacy for free-market capitalism. These economists have shaped economic theories and policies worldwide. #Economists #EconomicThinkers #EconomicPolicy #EconomicTheory"
 date: 2023-06-22 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_2.jpg

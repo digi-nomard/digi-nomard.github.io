@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three Beautiful Beaches You Must Visit"
+description: "Discover three stunning #beaches that offer a glimpse of paradise on Earth. From the pristine white sands and crystal-clear turquoise waters of #WhitehavenBeach in Australia to the vibrant coral reefs and luxurious overwater bungalows of #BoraBora in French Polynesia, these beaches are a must-visit for beach enthusiasts seeking #tranquility, #romance, and stunning scenery. #BeautifulBeaches #TravelGoals"
 date: 2023-06-21 07:00:00 GMT+9
 categories: [Travel]
 image: images/Beautiful_Beaches_Image_1.jpg
