@@ -1,0 +1,5 @@
+- name: Update Bing via IndexNow
+  if: github.event_name == 'push'
+  working-directory: ".github/scripts"
+  shell: bash
+  run: sudo ./indexnow.sh
