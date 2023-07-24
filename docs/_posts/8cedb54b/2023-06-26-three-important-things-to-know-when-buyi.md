@@ -3,7 +3,7 @@ layout: post
 title: "Three Important Things to Know When Buying a House"
 description: "Discover the key factors to consider when buying a house. Learn about the importance of house location, financing options, and home inspection. Make an informed decision with these expert tips. #BuyingAHouse #HouseLocation #FinancingOptions #HomeInspection #RealEstateTips #HomeBuyingTips #LocationMatters #MortgageLenders #HomeInspectionTips #HomeBuyingGuide"
 date: 2023-06-26 00:00:00 UTC+09:00"
-categories: 
+categories: [ Economy ]
 image: images/intro_1.png
 uuid: 8cedb54b
 lang: en

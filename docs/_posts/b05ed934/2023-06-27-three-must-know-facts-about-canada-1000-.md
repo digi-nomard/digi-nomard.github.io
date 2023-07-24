@@ -3,7 +3,7 @@ layout: post
 title: "Three Must-Know Facts about Canada 1000 Island Traveling"
 description: "Discover the beauty and attractions of Canada's 1000 Islands in this must-read blog post. With stunning landscapes, rich history and culture, and a plethora of outdoor adventures, this destination has it all. Explore the picturesque islands, witness breathtaking sunsets, and delve into the area's fascinating heritage. Engage in thrilling activities like kayaking, fishing, and hiking, or simply enjoy a tranquil escape. Plan your trip to the 1000 Islands and create unforgettable memories. #Canada #1000Islands #Travel #Landscapes #History #OutdoorActivities #Adventure #Explore"
 date: 2023-06-27 00:00:00 UTC+09:00"
-categories: 
+categories: [Travel]
 image: images/intro_1.jpg
 uuid: b05ed934
 lang: en
