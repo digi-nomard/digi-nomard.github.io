@@ -1,1 +1,66 @@
-{"topic": "주택 구입", "title": "집을 살 때 알아야 할 세 가지 중요한 사항", "uuid": "8cedb54b", "lang": "ko", "intro": {"content": "집을 사는 것은 신중한 고려가 필요한 중요한 결정입니다. 다음은 새 집을 구입할 때 알아야 할 세 가지 중요한 사항입니다.", "images": ["images/intro_1.png"]}, "main": [{"heading": "1. 위치가 핵심", "tag": "House location", "detail": {"content": "집을 살 때 가장 먼저 고려하는 것이 바로 입지입니다. 좋은 위치는 라이프스타일을 향상시키고 투자 가치를 높여줍니다. 학교, 직장, 쇼핑 센터 및 공원과 같은 편의 시설과의 근접성과 같은 요소를 고려하십시오. 이웃을 조사하고 미래의 성장과 개발 가능성을 평가하십시오.", "images": ["images/main1_6.jpg", "images/main1_7.jpg", "images/main1_8.jpg"]}}, {"heading": "2. 파이낸싱 옵션", "tag": "financing-options", "detail": {"content": "금융 옵션을 이해하는 것은 주택 구매 과정에서 매우 중요합니다. 귀하의 필요와 재정 상황에 맞는 다양한 모기지 대출 기관 및 대출 프로그램을 살펴보십시오. 예산을 결정하고 이자율과 마감 비용을 포함한 월 모기지 페이먼트를 계산하십시오. 신용 점수를 검토하고 필요한 경우 개선 조치를 취하십시오.", "images": ["images/main2_1.jpg", "images/main2_2.png", "images/main2_2.jpg", "images/main2_5.png", "images/main2_3.jpg"]}}, {"heading": "3. 홈 인스펙션", "tag": "home-inspection", "detail": {"content": "집을 구입하기 전에 주택 검사를 건너 뛰지 마십시오. 전문 조사관을 고용하여 건물의 구조적, 전기적 또는 배관 문제를 철저히 평가합니다. 이렇게 하면 잠재적인 문제를 식별하고 수리 또는 가격 조정을 협상하는 데 도움이 됩니다. 최종 결정을 내리기 전에 숨겨진 문제를 알고 있는 것이 좋습니다.", "images": ["images/main3_1.jpeg", "images/main3_3.jpg", "images/main3_6.jpg", "images/main3_8.jpg", "images/main3_9.jpg", "images/main3_10.jpg"]}}], "conclusion": {"content": "결론적으로 집을 구입하려면 위치, 자금 조달 옵션, 철저한 주택 검사와 같은 요소를 신중하게 고려해야 합니다. 이러한 중요한 측면을 이해함으로써 정보에 입각한 결정을 내리고 성공적인 주택 구매 경험을 보장할 수 있습니다.", "images": ["images/intro_2.jpg", "images/intro_3.jpg", "images/intro_4.jpg", "images/intro_5.jpg", "images/intro_6.jpg"]}}
+{
+	"topic": "주택 구입",
+	"title": "집을 살 때 알아야 할 세 가지 중요한 사항",
+	"description": "Discover the key factors to consider when buying a house. Learn about the importance of house location, financing options, and home inspection. Make an informed decision with these expert tips. #BuyingAHouse #HouseLocation #FinancingOptions #HomeInspection #RealEstateTips #HomeBuyingTips #LocationMatters #MortgageLenders #HomeInspectionTips #HomeBuyingGuide",
+	"uuid": "8cedb54b",
+	"lang": "ko",
+	"intro": {
+		"content": "집을 사는 것은 신중한 고려가 필요한 중요한 결정입니다. 다음은 새 집을 구입할 때 알아야 할 세 가지 중요한 사항입니다.",
+		"images": [
+			"images/intro_1.png"
+		]
+	},
+	"main": [
+		{
+			"heading": "1. 위치가 핵심",
+			"tag": "House location",
+			"detail": {
+				"content": "집을 살 때 가장 먼저 고려하는 것이 바로 입지입니다. 좋은 위치는 라이프스타일을 향상시키고 투자 가치를 높여줍니다. 학교, 직장, 쇼핑 센터 및 공원과 같은 편의 시설과의 근접성과 같은 요소를 고려하십시오. 이웃을 조사하고 미래의 성장과 개발 가능성을 평가하십시오.",
+				"images": [
+					"images/main1_6.jpg",
+					"images/main1_7.jpg",
+					"images/main1_8.jpg"
+				]
+			}
+		},
+		{
+			"heading": "2. 파이낸싱 옵션",
+			"tag": "financing-options",
+			"detail": {
+				"content": "금융 옵션을 이해하는 것은 주택 구매 과정에서 매우 중요합니다. 귀하의 필요와 재정 상황에 맞는 다양한 모기지 대출 기관 및 대출 프로그램을 살펴보십시오. 예산을 결정하고 이자율과 마감 비용을 포함한 월 모기지 페이먼트를 계산하십시오. 신용 점수를 검토하고 필요한 경우 개선 조치를 취하십시오.",
+				"images": [
+					"images/main2_1.jpg",
+					"images/main2_2.png",
+					"images/main2_2.jpg",
+					"images/main2_5.png",
+					"images/main2_3.jpg"
+				]
+			}
+		},
+		{
+			"heading": "3. 홈 인스펙션",
+			"tag": "home-inspection",
+			"detail": {
+				"content": "집을 구입하기 전에 주택 검사를 건너 뛰지 마십시오. 전문 조사관을 고용하여 건물의 구조적, 전기적 또는 배관 문제를 철저히 평가합니다. 이렇게 하면 잠재적인 문제를 식별하고 수리 또는 가격 조정을 협상하는 데 도움이 됩니다. 최종 결정을 내리기 전에 숨겨진 문제를 알고 있는 것이 좋습니다.",
+				"images": [
+					"images/main3_1.jpeg",
+					"images/main3_3.jpg",
+					"images/main3_6.jpg",
+					"images/main3_8.jpg",
+					"images/main3_9.jpg",
+					"images/main3_10.jpg"
+				]
+			}
+		}
+	],
+	"conclusion": {
+		"content": "결론적으로 집을 구입하려면 위치, 자금 조달 옵션, 철저한 주택 검사와 같은 요소를 신중하게 고려해야 합니다. 이러한 중요한 측면을 이해함으로써 정보에 입각한 결정을 내리고 성공적인 주택 구매 경험을 보장할 수 있습니다.",
+		"images": [
+			"images/intro_2.jpg",
+			"images/intro_3.jpg",
+			"images/intro_4.jpg",
+			"images/intro_5.jpg",
+			"images/intro_6.jpg"
+		]
+	}
+}
