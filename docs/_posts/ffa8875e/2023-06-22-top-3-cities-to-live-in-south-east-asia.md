@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top 3 Cities to Live in South East Asia"
-description: "Explore the influential economists who have shaped the field of economics. Discover three must-know economists who have made significant contributions to the discipline. Learn about #AdamSmith, the father of modern economics, and his concept of the invisible hand. Explore the ideas of #JohnMaynardKeynes, whose economic policies revolutionized the Great Depression era. Understand the impact of #MiltonFriedman's advocacy for free-market capitalism. These economists have shaped economic theories and policies worldwide. #Economists #EconomicThinkers #EconomicPolicy #EconomicTheory"
+description: "Discover the best cities to live in South East Asia—Singapore, Kuala Lumpur, and Bangkok. These vibrant cities offer a high standard of living, excellent infrastructure, and diverse cultures, making them top choices for expats and residents seeking a fulfilling life in the region. #SouthEastAsia #BestCities #Singapore #KualaLumpur #Bangkok #LivingAbroad #Expats #TopChoices"
 date: 2023-06-22 00:00:00 UTC+09:00"
 categories: [ Travel ]
 image: images/intro_2.jpg
