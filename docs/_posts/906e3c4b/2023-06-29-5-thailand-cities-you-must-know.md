@@ -3,11 +3,11 @@ layout: post
 title: "5 Thailand Cities You Must Know"
 description: "Exploring the gems of Thailand: From Bangkok's vibrant capital to Chiang Mai's cultural charm, Phuket's stunning beaches, Krabi's natural wonders, and Ayutthaya's historical allure."
 tags: "#ThailandCities #HistoryAndCulture #BreathtakingLandscapes #ExploreThailand #CityTravel"
-date: 2023-06-29 04:00:00 UTC+09:00"
+date: 2023-06-29 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_7.jpg
 uuid: 906e3c4b
-lang: ko
+lang: en
 ---
 
 Welcome to our journey through 5 captivating cities in Thailand. Get ready to discover a blend of history, culture, and breathtaking landscapes. Let's begin!
