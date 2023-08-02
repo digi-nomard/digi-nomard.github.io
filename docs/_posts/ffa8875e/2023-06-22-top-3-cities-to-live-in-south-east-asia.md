@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top 3 Cities to Live in South East Asia"
-description: "Discover the best cities to live in South East Asia—Singapore, Kuala Lumpur, and Bangkok. These vibrant cities offer a high standard of living, excellent infrastructure, and diverse cultures, making them top choices for expats and residents seeking a fulfilling life in the region. #SouthEastAsia #BestCities #Singapore #KualaLumpur #Bangkok #LivingAbroad #Expats #TopChoices"
+description: "Best cities in Southeast Asia: Singapore, Kuala Lumpur, Bangkok. Vibrant, high living standards, diverse cultures. Top choices for expats. #SEAsiaCities #Singapore #KualaLumpur #Bangkok #ExpatLife"
 date: 2023-06-22 00:00:00 UTC+09:00"
 categories: [ Travel ]
 image: images/intro_2.jpg

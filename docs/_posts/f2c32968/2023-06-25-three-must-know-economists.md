@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Must-Know Economists"
-description: "Discover the Three Must-Know Economists who have significantly influenced the field of economics. Learn about Adam Smith, the father of modern economics, and his groundbreaking concept of the invisible hand. Explore the economic policies revolutionized by British economist John Maynard Keynes during the Great Depression. Uncover the ideas of American economist Milton Friedman, emphasizing free-market capitalism and limited government intervention. These influential thinkers continue to shape economic theories and policies globally. #BestEconomist #AdamSmith #Keynes #MiltonFriedman #EconomicThinkers #EconomicPolicies #InvisibleHand #EconomicTheory"
+description: "Explore three influential economists: Adam Smith's invisible hand, Keynes' policies, and Friedman's free-market ideas. #Economists #InfluentialThinkers"
 date: 2023-06-25 00:00:00 UTC+09:00"
 categories: [ Economy ]
 image: images/intro_1.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Best Economy News Websites You Must Know"
-description: "Stay informed and make informed decisions with the latest economy news from the best sources. Discover three top economy news websites that you must know. Get comprehensive coverage and expert analysis from #FinancialTimes. Stay updated on real-time financial information and market trends with #Bloomberg. Access live market updates and in-depth analysis from #CNBC. These websites provide valuable insights for business professionals, investors, and anyone interested in finance and economics. #EconomyNews #FinancialInformation #MarketAnalysis #StayInformed"
+description: "Stay informed with top economy news websites: #FinancialTimes for comprehensive coverage, #Bloomberg for real-time updates, and #CNBC for in-depth analysis. #EconomyNews #FinancialInformation #MarketAnalysis"
 date: 2023-06-24 00:00:00 UTC+09:00"
 categories: [ Economy ]
 image: images/intro_1.jpg
