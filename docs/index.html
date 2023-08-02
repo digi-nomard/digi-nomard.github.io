@@ -6,7 +6,8 @@ background: '/img/bg-index.jpg'
 
 <!-- Home Intro
 ================================================== -->
-{% if page.url == "/" %} 
+<!-- if page.url start with 'page' or "/" -->
+{% if page.url contains 'page' or page.url == "/" %}
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">

@@ -3,7 +3,7 @@ layout: post
 title: "5 Vietnam Cities You Must Know"
 description: "Discover the must-know cities of Vietnam, including Hanoi, Ho Chi Minh City, Hoi An, Da Nang, and Nha Trang! #VietnamCities #Hanoi #HoChiMinhCity #HoiAn #DaNang #NhaTrang #TravelVietnam #CityGuide"
 date: 2023-06-28 00:00:00 UTC+09:00"
-categories: 
+categories: [ Travel ]
 image: images/intro_6.jpg
 youtube: https://www.youtube.com/watch?v=KC44MiYrakc
 uuid: 6a944898

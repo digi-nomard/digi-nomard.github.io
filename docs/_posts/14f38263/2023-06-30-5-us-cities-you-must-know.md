@@ -4,7 +4,7 @@ title: "5 US Cities You Must Know"
 description: "Discover 5 captivating US cities that define the spirit of America: New York City, Los Angeles, Chicago, San Francisco, and Miami."
 tags: "#USCities #CityExploration #TravelUSA #AmericanSpirit #MustVisit"
 date: 2023-06-30 00:00:00 UTC+09:00"
-categories: 
+categories: [ Travel ]
 image: images/intro_1.jpg
 youtube: https://www.youtube.com/watch?v=x3vPHVoloc0
 uuid: 14f38263
