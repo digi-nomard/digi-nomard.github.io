@@ -5,6 +5,7 @@ description: "Discover the must-know cities of Vietnam, including Hanoi, Ho Chi 
 date: 2023-06-28 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_6.jpg
+youtube: https://www.youtube.com/watch?v=KC44MiYrakc
 uuid: 6a944898
 lang: en
 ---

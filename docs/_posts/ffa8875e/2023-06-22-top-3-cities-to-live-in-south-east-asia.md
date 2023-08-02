@@ -5,6 +5,7 @@ description: "Best cities in Southeast Asia: Singapore, Kuala Lumpur, Bangkok. V
 date: 2023-06-22 00:00:00 UTC+09:00"
 categories: [ Travel ]
 image: images/intro_2.jpg
+youtube: 
 uuid: ffa8875e
 lang: en
 ---

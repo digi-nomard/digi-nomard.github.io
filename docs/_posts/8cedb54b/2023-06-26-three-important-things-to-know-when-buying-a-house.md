@@ -5,6 +5,7 @@ description: "Essential tips for buying a house: consider location, financing op
 date: 2023-06-26 00:00:00 UTC+09:00"
 categories: [ Economy ]
 image: images/intro_1.png
+youtube: https://www.youtube.com/watch?v=1cK39n0vBY4
 uuid: 8cedb54b
 lang: en
 ---

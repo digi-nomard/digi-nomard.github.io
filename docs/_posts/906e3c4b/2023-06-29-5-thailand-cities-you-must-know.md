@@ -6,6 +6,7 @@ tags: "#ThailandCities #HistoryAndCulture #BreathtakingLandscapes #ExploreThaila
 date: 2023-06-29 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_7.jpg
+youtube: https://www.youtube.com/watch?v=7KKTDe_opGE
 uuid: 906e3c4b
 lang: en
 ---

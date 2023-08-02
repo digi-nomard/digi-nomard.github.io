@@ -6,6 +6,7 @@ tags: "#USCities #CityExploration #TravelUSA #AmericanSpirit #MustVisit"
 date: 2023-06-30 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg
+youtube: https://www.youtube.com/watch?v=x3vPHVoloc0
 uuid: 14f38263
 lang: en
 ---

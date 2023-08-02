@@ -5,6 +5,7 @@ description: "Discover three breathtakingly beautiful beaches! Whitehaven, Bora 
 date: 2023-06-21 07:00:00 GMT+9
 categories: [Travel]
 image: images/Beautiful_Beaches_Image_1.jpg
+youtube: https://www.youtube.com/watch?v=AAF8CdgTcLc
 uuid: 05b7b1d1
 lang: en
 ---

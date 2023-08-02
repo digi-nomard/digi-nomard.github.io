@@ -5,6 +5,7 @@ description: "Discover Canada's 1000 Islands in this must-read blog post. Stunni
 date: 2023-06-27 00:00:00 UTC+09:00"
 categories: [Travel]
 image: images/intro_1.jpg
+youtube: 
 uuid: b05ed934
 lang: en
 ---

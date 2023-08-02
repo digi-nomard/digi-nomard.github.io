@@ -6,6 +6,7 @@ tags: "#HoChiMinhCity #Saigon #Vietnam #TravelVietnam #CityHighlights"
 date: 2023-07-01 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg
+youtube: https://studio.youtube.com/video/5pw1O1bCP1c/edit
 uuid: 1ae8c130
 lang: en
 ---

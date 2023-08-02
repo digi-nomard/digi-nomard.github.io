@@ -5,6 +5,7 @@ description: "Explore three influential economists: Adam Smith's invisible hand,
 date: 2023-06-25 00:00:00 UTC+09:00"
 categories: [ Economy ]
 image: images/intro_1.jpg
+youtube: https://www.youtube.com/watch?v=DnAhZceHIts
 uuid: f2c32968
 lang: en
 ---
