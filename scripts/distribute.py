@@ -39,7 +39,7 @@ class Utils:
                     # remove special characters (Except -) but keep other languages
                     title = re.sub(r"[^\w\s-]", "", title).strip()
                     # remove spaces and lower
-                    title = title.replace(" ", "-").lower()[:55]
+                    title = title.replace(" ", "-").lower()[:40]
                     # rename md file
                     new_md_file = os.path.join(root, date + "-" + title + ".md")
                     os.rename(md_file, new_md_file)
