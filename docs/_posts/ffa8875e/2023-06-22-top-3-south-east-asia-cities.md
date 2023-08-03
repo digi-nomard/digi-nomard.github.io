@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Top 3 Cities to Live in South East Asia"
+title: "Top 3 South East Asia Cities"
 description: "Best cities in Southeast Asia: Singapore, Kuala Lumpur, Bangkok. Vibrant, high living standards, diverse cultures. Top choices for expats. #SEAsiaCities #Singapore #KualaLumpur #Bangkok #ExpatLife"
 date: 2023-06-22 00:00:00 UTC+09:00"
 categories: [ Travel ]
 image: images/intro_2.jpg
-youtube: 
+youtube: https://www.youtube.com/watch?v=CHug3VZiO58
 uuid: ffa8875e
 lang: en
 ---
@@ -18,26 +18,26 @@ South East Asia boasts a plethora of vibrant cities, but here are the top three 
 ## 1. Singapore
 With its excellent infrastructure, low crime rates, and booming economy, Singapore consistently ranks as one of the best cities to live in South East Asia. The city-state offers a high standard of living, world-class healthcare, and a clean and safe environment. Additionally, Singapore is known for its multiculturalism, creating a diverse and inclusive society.
 
-![](images/main1_1.jpg)
-![](images/main1_5.jpg)
+![Singapore](images/main1_1.jpg)
+![Singapore](images/main1_5.jpg)
 
 
 ## 2. Kuala Lumpur
 Kuala Lumpur, the capital of Malaysia, is a melting pot of cultures and a thriving metropolis. It offers a combination of modern amenities and natural beauty, with its iconic Petronas Twin Towers dominating the skyline. Kuala Lumpur provides a great work-life balance, affordable cost of living, and excellent food scene. It also has a well-developed public transportation system, making it easy to navigate the city.
 
-![](images/main2_1.jpg)
-![](images/main2_3.jpg)
+![Kuala Lumpur](images/main2_1.jpg)
+![Kuala Lumpur](images/main2_3.jpg)
 
 
 ## 3. Bangkok
 Known for its bustling street markets, ornate temples, and vibrant nightlife, Bangkok is a city that never sleeps. This vibrant capital of Thailand offers a mix of tradition and modernity, with a wide range of entertainment options and a rich cultural heritage. Bangkok is also known for its affordable cost of living, delicious street food, and welcoming locals.
 
-![](images/main3_1.jpg)
-![](images/main3_3.jpg)
+![Bangkok](images/main3_1.jpg)
+![Bangkok](images/main3_3.jpg)
 
 
 
 
 These three cities, Singapore, Kuala Lumpur, and Bangkok, offer unique experiences and opportunities to residents, making them the top choices for those seeking the best cities to live in South East Asia.
 
-![](images/intro_4.jpg)
+![South East Asia](images/intro_4.jpg)
