@@ -41,8 +41,10 @@ class Utils:
                     # remove spaces and lower
                     title = title.replace(" ", "-").lower()[:40]
                     # rename md file
-                    new_md_file = os.path.join(root, date + "-" + title + ".md")
-                    os.rename(md_file, new_md_file)
+                    newfilename = date + "-" + title + ".md"
+                    if file != newfilename:
+                        print(f'{file} -> {newfilename}')
+                        os.rename(md_file, os.path.join(root, newfilename))
 
 
     def deleteFolder(dir):
