@@ -7,6 +7,7 @@ tags: "#China #TravelChina #CityTravel #Beijing #Shanghai #XiAn #Guilin #Chengdu
 date: 2023-07-02 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg
+youtube: https://www.youtube.com/watch?v=XemeRJXE-S4
 uuid: 1f36d623
 lang: en
 ---
