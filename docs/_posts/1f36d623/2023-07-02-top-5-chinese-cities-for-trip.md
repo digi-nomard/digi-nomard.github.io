@@ -2,9 +2,9 @@
 layout: post
 title: "Top 5 Chinese Cities for Trip"
 topic: "Chinese Cities"
-description: "title: "5 Must-Visit Cities in China" - Discover the enchanting beauty and vibrant culture of Beijing, Shanghai, Xi'an, Guilin, and Chengdu."
+description: "5 Must-Visit Cities in China - Discover the enchanting beauty and vibrant culture of Beijing, Shanghai, Xi'an, Guilin, and Chengdu."
 tags: "#China #TravelChina #CityTravel #Beijing #Shanghai #XiAn #Guilin #Chengdu"
-date: 2023-07-02 00:00:00 UTC+09:00"
+date: 2023-07-02 00:00:00 GMT+9
 categories: 
 image: images/intro_1.jpg
 youtube: https://www.youtube.com/watch?v=XemeRJXE-S4
