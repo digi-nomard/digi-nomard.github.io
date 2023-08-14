@@ -1,0 +1,106 @@
+{
+	"topic": "Ayutthaya: Ancient Capital and UNESCO World Heritage Site",
+	"title": "Thailand Ayutthaya, 5 Things You Must Know About",
+	"uuid": "f15ed293",
+	"lang": "en",
+	"description": "Ayutthaya, the ancient capital of Thailand, holds a special place in history as a UNESCO World Heritage Site. Let's explore five key facts about this fascinating destination.",
+	"intro": {
+		"content": "Ayutthaya, the ancient capital of Thailand, holds a special place in history as a UNESCO World Heritage Site. Let's explore five key facts about this fascinating destination.",
+		"images": [
+			"images/intro_1.jpeg"
+		],
+		"details": "Ayutthaya, the ancient capital of Thailand, holds a special place in history as a UNESCO World Heritage Site. Let's explore five key facts about this fascinating destination."
+	},
+	"main": [
+		{
+			"heading": "1. Historical Significance",
+			"tag": "Ayutthaya Historical Sites",
+			"detail": {
+				"content": "Ayutthaya served as the capital of the Kingdom of Siam for over 400 years. It was a flourishing center of trade, culture, and religion. Today, the remnants of the once majestic city include temples, palaces, and sculptures that showcase its rich history.",
+				"images": [
+					"images/main1_2.jpg",
+					"images/main1_3.jpg",
+					"images/main1_4.jpg",
+					"images/main1_5.jpg",
+					"images/main1_6.jpg"
+				]
+			}
+		},
+		{
+			"heading": "2. Wat Mahathat",
+			"tag": "Wat Mahathat",
+			"detail": {
+				"content": "One of the most iconic landmarks in Ayutthaya is Wat Mahathat. This temple is famous for its impressive Buddha head entwined in the roots of a banyan tree. It is a symbol of the city's ancient glory and is often featured in photographs of Ayutthaya.",
+				"images": [
+					"images/main2_2.jpg",
+					"images/main2_4.jpg",
+					"images/main2_5.jpg",
+					"images/main2_6.jpg",
+					"images/main2_7.jpg",
+					"images/main2_8.jpg",
+					"images/main2_9.jpg"
+				]
+			}
+		},
+		{
+			"heading": "3. Ayutthaya's Floating Market",
+			"tag": "Ayutthaya Floating Market",
+			"detail": {
+				"content": "Visiting Ayutthaya's floating market is a unique experience. Here, you can explore traditional wooden boats selling local handicrafts, souvenirs, and delicious Thai street food. Don't miss the opportunity to immerse yourself in the vibrant atmosphere of this cultural gem.",
+				"images": [
+					"images/main3_1.jpg",
+					"images/main3_3.jpg",
+					"images/main3_4.jpg",
+					"images/main3_5.jpg",
+					"images/main3_6.jpg",
+					"images/main3_8.jpg",
+					"images/main3_9.jpg"
+				]
+			}
+		},
+		{
+			"heading": "4. Ayutthaya Historical Park",
+			"tag": "Ayutthaya Historical Park",
+			"detail": {
+				"content": "The Ayutthaya Historical Park is a vast complex of ruins and archaeological sites. It offers visitors a chance to step back in time and appreciate the architectural marvels of the past. Exploring this park provides a glimpse into the grandeur of Ayutthaya's golden era.",
+				"images": [
+					"images/main4_1.jpg",
+					"images/main4_3.jpg",
+					"images/main4_4.jpg",
+					"images/main4_6.jpg",
+					"images/main4_7.jpg",
+					"images/main4_8.jpg",
+					"images/main4_9.jpg"
+				]
+			}
+		},
+		{
+			"heading": "5. Chao Sam Phraya National Museum",
+			"tag": "Chao Sam Phraya National Museum",
+			"detail": {
+				"content": "For history enthusiasts, a visit to the Chao Sam Phraya National Museum is a must. It houses a remarkable collection of artifacts and artworks from Ayutthaya's heyday. From intricate sculptures to exquisite ceramics, the museum offers insights into the region's cultural heritage.",
+				"images": [
+					"images/main5_1.jpg",
+					"images/main5_2.jpg",
+					"images/main5_3.jpg",
+					"images/main5_4.png",
+					"images/main5_4.jpg"
+				]
+			}
+		}
+	],
+	"conclusion": {
+		"content": "Ayutthaya is a treasure trove of history, art, and spirituality. Its ancient ruins and vibrant traditions make it a captivating destination for travelers from around the world. Experience the splendor and enchantment of Ayutthaya, the ancient capital of Thailand.",
+		"images": [
+			"images/intro_3.jpg",
+			"images/intro_4.jpg",
+			"images/intro_5.jpg",
+			"images/intro_6.jpg",
+			"images/intro_8.jpeg",
+			"images/intro_9.jpg"
+		],
+		"details": "Ayutthaya is a treasure trove of history, art, and spirituality. Its ancient ruins and vibrant traditions make it a captivating destination for travelers from around the world. Experience the splendor and enchantment of Ayutthaya, the ancient capital of Thailand."
+	},
+	"tags": "#Ayutthaya,#Thailand,#HistoricalDestination,#UNESCOWorldHeritage,#CulturalTreasure",
+	"description-pass": true
+}

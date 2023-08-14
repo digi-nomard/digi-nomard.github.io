@@ -1,0 +1,99 @@
+{
+	"topic": "Hoian",
+	"title": "Vietnam Hoian",
+	"uuid": "2ad8a1ae",
+	"lang": "en",
+	"description": "Exploring Hoian: Rich History, Architectural Marvels, Artisan Traditions, Culinary Delights, Festivals and Traditions",
+	"intro": {
+		"content": "Hoian, a charming town in Vietnam, is known for its rich history and well-preserved ancient architecture. Let's explore five key aspects of Hoian that you should know!",
+		"images": [
+			"images/intro_2.jpg"
+		],
+		"details": "Hoian, a charming town in Vietnam, is known for its rich history and well-preserved ancient architecture. Let's explore five key aspects of Hoian that you should know!"
+	},
+	"main": [
+		{
+			"heading": "Historical Significance",
+			"tag": "Hoian History",
+			"detail": {
+				"content": "Hoian was once a bustling international trading port, attracting merchants from around the world. Its ancient town is a UNESCO World Heritage site, showcasing a harmonious blend of Chinese, Japanese, and Vietnamese cultures.",
+				"images": [
+					"images/main1_4.jpg",
+					"images/main1_5.jpg",
+					"images/main1_6.jpg",
+					"images/main1_7.jpg",
+					"images/main1_8.jpg"
+				]
+			}
+		},
+		{
+			"heading": "Architectural Marvels",
+			"tag": "Hoian Architecture",
+			"detail": {
+				"content": "The streets of Hoian are adorned with stunning architectural masterpieces, including the iconic Japanese Covered Bridge and beautifully preserved merchant houses. These architectural wonders provide a glimpse into the town's glorious past.",
+				"images": [
+					"images/main2_6.jpg",
+					"images/main2_7.jpg",
+					"images/main2_8.jpg",
+					"images/main2_9.jpg",
+					"images/main2_10.jpg"
+				]
+			}
+		},
+		{
+			"heading": "Artisan Traditions",
+			"tag": "Hoian Artisans",
+			"detail": {
+				"content": "Hoian is famous for its skilled artisans who specialize in traditional crafts. From intricate lantern making to skilled tailoring, you can witness the artistic craftsmanship that has been passed down through generations in this vibrant town.",
+				"images": [
+					"images/main3_6.jpg",
+					"images/main3_7.png",
+					"images/main3_7.jpg",
+					"images/main3_8.jpg",
+					"images/main3_9.jpg"
+				]
+			}
+		},
+		{
+			"heading": "Culinary Delights",
+			"tag": "Hoian Cuisine",
+			"detail": {
+				"content": "Indulge in the culinary delights of Hoian, where you can savor the unique flavors of Central Vietnamese cuisine. Don't miss trying iconic dishes like Cao Lau and White Rose Dumplings, which are exclusive to this region.",
+				"images": [
+					"images/main4_6.jpg",
+					"images/main4_7.jpg",
+					"images/main4_8.jpg",
+					"images/main4_9.jpg",
+					"images/main4_10.jpg"
+				]
+			}
+		},
+		{
+			"heading": "Festivals and Traditions",
+			"tag": "Hoian Festivals",
+			"detail": {
+				"content": "Hoian comes alive during festive seasons with colorful lantern festivals and traditional celebrations. The most famous is the Full Moon Lantern Festival, where the town is beautifully illuminated by thousands of lanterns.",
+				"images": [
+					"images/main5_6.jpg",
+					"images/main5_7.jpg",
+					"images/main5_8.jpg",
+					"images/main5_9.jpg",
+					"images/main5_10.jpg"
+				]
+			}
+		}
+	],
+	"conclusion": {
+		"content": "Hoian offers a unique blend of history, architecture, culture, cuisine, and traditions. Discover the magic of this enchanting town and create unforgettable memories during your visit!",
+		"images": [
+			"images/intro_4.jpg",
+			"images/intro_6.jpg",
+			"images/intro_8.jpg",
+			"images/intro_9.jpg",
+			"images/intro_10.jpg"
+		],
+		"details": "Hoian offers a unique blend of history, architecture, culture, cuisine, and traditions. Discover the magic of this enchanting town and create unforgettable memories during your visit!"
+	},
+	"tags": "#Vietnam,#Hoian,#History,#Architecture,#Artisans,#Cuisine,#Traditions,#Travel,#Explore,#CharmingTown",
+	"description-pass": true
+}
