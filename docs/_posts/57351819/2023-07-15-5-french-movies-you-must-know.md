@@ -3,7 +3,7 @@ layout: post
 title: "5 French Movies You Must Know"
 topic: "French Movies"
 description: "Dive into French cinema's heart & soul. Explore 5 captivating movies - Amélie, The Intouchables, Amour, La Haine, The Artist."
-tags: "#FrenchMovies #Cinema #Amélie #TheIntouchables #Amour #LaHaine #TheArtist #FilmLovers #ForeignFilms #Culture"
+tags: "FrenchMovies,Cinema,Amélie,TheIntouchables,Amour,LaHaine,TheArtist,FilmLovers,ForeignFilms,Culture"
 date: 2023-07-15 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_14.jpeg

@@ -3,7 +3,7 @@ layout: post
 title: "Thailand Ayutthaya, 5 Things You Must Know About"
 topic: "Ayutthaya: Ancient Capital and UNESCO World Heritage Site"
 description: "Ayutthaya, the ancient capital of Thailand, holds a special place in history as a UNESCO World Heritage Site. Let's explore five key facts about this fascinating destination."
-tags: "#Ayutthaya,#Thailand,#HistoricalDestination,#UNESCOWorldHeritage,#CulturalTreasure"
+tags: "Ayutthaya,Thailand,HistoricalDestination,UNESCOWorldHeritage,CulturalTreasure"
 date: 2023-07-10 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpeg

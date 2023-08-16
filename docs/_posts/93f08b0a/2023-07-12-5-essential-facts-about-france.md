@@ -3,7 +3,7 @@ layout: post
 title: "5 Essential Facts About France"
 topic: "5 Essential Facts About France"
 description: "Unveiling France: 5 Essential Facts. Explore Paris' romance, gourmet delights, Riviera glamour, historic landmarks, and fashion flair."
-tags: "#France #Travel #Culture #History #Food #Paris #FrenchRiviera #Fashion #Landmarks"
+tags: "France,Travel,Culture,History,Food,Paris,FrenchRiviera,Fashion,Landmarks"
 date: 2023-07-12 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_9.jpg

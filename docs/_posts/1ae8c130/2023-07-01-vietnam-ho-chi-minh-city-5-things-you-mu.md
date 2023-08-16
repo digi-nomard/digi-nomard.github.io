@@ -2,7 +2,7 @@
 layout: post
 title: "Vietnam Ho Chi Minh City, 5 things you must know"
 description: "Discover the essence of vibrant Ho Chi Minh City, Vietnam: a rich history, cosmopolitan hub, cultural heritage, thriving street food scene, and economic center."
-tags: "#HoChiMinhCity #Saigon #Vietnam #TravelVietnam #CityHighlights"
+tags: "HoChiMinhCity,Saigon,Vietnam,TravelVietnam,CityHighlights"
 date: 2023-07-01 00:00:00 UTC+09:00"
 categories: [ Travel ]
 image: images/intro_1.jpg

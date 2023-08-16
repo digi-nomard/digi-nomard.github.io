@@ -3,7 +3,7 @@ layout: post
 title: "5 Chinese Movies, You Must Watch"
 topic: "Chinese Movies"
 description: "Discover the mesmerizing world of Chinese movies with our top 5 must-watch films: Crouching Tiger, Hidden Dragon, Hero, House of Flying Daggers, Ip Man, and Red Cliff."
-tags: "#ChineseMovies,#CrouchingTigerHiddenDragon,#Hero,#HouseofFlyingDaggers,#IpMan,#RedCliff"
+tags: "ChineseMovies,CrouchingTigerHiddenDragon,Hero,HouseofFlyingDaggers,IpMan,RedCliff"
 date: 2023-07-06 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_8.jpg

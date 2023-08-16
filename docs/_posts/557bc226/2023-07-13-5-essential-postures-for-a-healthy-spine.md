@@ -3,7 +3,7 @@ layout: post
 title: "5 Essential Postures for a Healthy Spine"
 topic: "Good Posture"
 description: "Discover 5 vital postures for a healthy spine. Optimal posture is key to overall wellness. Learn about sitting, standing, sleeping, lifting, and walking postures. #health #wellness #spinecare"
-tags: "#spinehealth #posturematters #healthyliving #backcare #wellbeing"
+tags: "spinehealth,posturematters,healthyliving,backcare,wellbeing"
 date: 2023-07-13 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_24.jpg

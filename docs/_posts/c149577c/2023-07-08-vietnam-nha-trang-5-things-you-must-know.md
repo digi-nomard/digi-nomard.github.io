@@ -3,7 +3,7 @@ layout: post
 title: "Vietnam Nha Trang, 5 Things You Must Know"
 topic: "Nha Trang"
 description: "Nha Trang is a beautiful coastal city in Vietnam, known for its pristine beaches and vibrant marine life. Let's explore 5 things you must know about Nha Trang."
-tags: "#Vietnam,#NhaTrang,#StunningBeaches,#MarineLife,#Seafood,#VinpearlLand,#PoNagarChamTowers"
+tags: "Vietnam,NhaTrang,StunningBeaches,MarineLife,Seafood,VinpearlLand,PoNagarChamTowers"
 date: 2023-07-08 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.JPG

@@ -3,7 +3,7 @@ layout: post
 title: "Vietnam Hoian"
 topic: "Hoian"
 description: "Exploring Hoian: Rich History, Architectural Marvels, Artisan Traditions, Culinary Delights, Festivals and Traditions"
-tags: "#Vietnam,#Hoian,#History,#Architecture,#Artisans,#Cuisine,#Traditions,#Travel,#Explore,#CharmingTown"
+tags: "Vietnam,Hoian,History,Architecture,Artisans,Cuisine,Traditions,Travel,Explore,CharmingTown"
 date: 2023-07-03 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_2.jpg

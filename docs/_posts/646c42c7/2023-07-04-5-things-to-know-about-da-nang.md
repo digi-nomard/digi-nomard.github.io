@@ -3,7 +3,7 @@ layout: post
 title: "5 Things to Know about Da Nang"
 topic: "Vietnam Da Nang"
 description: "Welcome to Da Nang, a vibrant city in Vietnam known for its beautiful beaches and rich cultural heritage. We will explore five key aspects of Da Nang that you must know."
-tags: "#Vietnam,#DaNang,#HanRiverBridge,#MarbleMountains,#MyKheBeach,#DragonBridge,#DaNangCathedral"
+tags: "Vietnam,DaNang,HanRiverBridge,MarbleMountains,MyKheBeach,DragonBridge,DaNangCathedral"
 date: 2023-07-04 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg

@@ -3,7 +3,7 @@ layout: post
 title: "5 Good Habits You Must Know"
 topic: "good_habits"
 description: "Transform Your Life: 5 Essential Good Habits. Embrace exercise, healthy eating, sleep, meditation, and lifelong learning for holistic well-being."
-tags: "#GoodHabits #Healthylifestyle #Exercise #HealthyEating #SufficientSleep #Meditation #LifelongLearning"
+tags: "GoodHabits,Healthylifestyle,Exercise,HealthyEating,SufficientSleep,Meditation,LifelongLearning"
 date: 2023-07-17 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_5.jpg

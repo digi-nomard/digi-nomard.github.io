@@ -3,7 +3,7 @@ layout: post
 title: "5 European Countries You Must Visit"
 topic: "5 European Countries to Know"
 description: "Discover 5 breathtaking European countries that should be on your travel list. Explore France, Germany, Italy, Spain, and the United Kingdom! #Europe #Travel #France #Germany #Italy #Spain #UK"
-tags: "#EuropeanCountries #MustVisit #TravelGuide #CulturalHeritage #HistoricalSignificance"
+tags: "EuropeanCountries,MustVisit,TravelGuide,CulturalHeritage,HistoricalSignificance"
 date: 2023-07-14 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_20.jpeg

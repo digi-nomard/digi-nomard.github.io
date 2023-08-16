@@ -3,7 +3,7 @@ layout: post
 title: "5 Essential Tips for a Restful Sleep"
 topic: "Having a Good Sleep"
 description: "Unlock Tranquil Nights: 5 Essential Sleep Tips. Build routines, serene spaces, tech limits, relaxation practices & mindful eating for restful sleep."
-tags: "#RestfulSleep #BedtimeRoutine #SleepEnvironment #ElectronicsFree #RelaxationTechniques"
+tags: "RestfulSleep,BedtimeRoutine,SleepEnvironment,ElectronicsFree,RelaxationTechniques"
 date: 2023-07-16 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_15.jpg

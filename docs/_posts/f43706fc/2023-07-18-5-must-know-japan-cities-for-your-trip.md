@@ -3,7 +3,7 @@ layout: post
 title: "5 Must-Know Japan Cities for Your Trip"
 topic: "Japan Cities for trip"
 description: "Explore Japan's vibrant cities – Tokyo, Kyoto, Osaka, Hiroshima, and Sapporo – for an unforgettable trip experience!"
-tags: "#JapanTravel #CityGuide #TokyoTrip #KyotoExperience #OsakaAdventures #HiroshimaJourney #SapporoExcursions"
+tags: "JapanTravel,CityGuide,TokyoTrip,KyotoExperience,OsakaAdventures,HiroshimaJourney,SapporoExcursions"
 date: 2023-07-18 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_8.jpg

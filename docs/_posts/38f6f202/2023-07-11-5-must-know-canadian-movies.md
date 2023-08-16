@@ -3,7 +3,7 @@ layout: post
 title: "5 Must-Know Canadian Movies"
 topic: "Canadian Movies"
 description: "Discover the best of Canadian movies: Bon Cop, Bad Cop, The Sweet Hereafter, C.R.A.Z.Y., Atanarjuat: The Fast Runner, and Monsieur Lazhar!"
-tags: "#CanadianMovies,#FilmIndustry,#Cinematography,#BonCopBadCop,#TheSweetHereafter,#CRAZY,#Atanarjuat,#MonsieurLazhar"
+tags: "CanadianMovies,FilmIndustry,Cinematography,BonCopBadCop,TheSweetHereafter,CRAZY,Atanarjuat,MonsieurLazhar"
 date: 2023-07-11 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_8.jpg

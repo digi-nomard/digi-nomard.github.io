@@ -3,7 +3,7 @@ layout: post
 title: "Thailand Krabi: Nature's Playground"
 topic: "Krabi: Nature's Playground"
 description: "Nature's Playground! Discover stunning beaches, spectacular islands, thrilling outdoor adventures, emerald pools and hot springs, vibrant nightlife, and street food."
-tags: "#ThailandKrabi,#NaturePlayground,#StunningBeaches,#SpectacularIslands,#OutdoorAdventures,#EmeraldPools"
+tags: "ThailandKrabi,NaturePlayground,StunningBeaches,SpectacularIslands,OutdoorAdventures,EmeraldPools"
 date: 2023-07-05 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg

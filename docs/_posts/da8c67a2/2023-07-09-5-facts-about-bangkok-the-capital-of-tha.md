@@ -3,7 +3,7 @@ layout: post
 title: "5 Facts about Bangkok: The Capital of Thailand"
 topic: "Bangkok: The Capital of Thailand"
 description: "The Capital of ThailandBangkok is a vibrant city that never fails to amaze visitors. From its rich cultural heritage to its bustling street life, here are 5 must-know facts about Bangkok"
-tags: "#Bangkok,#Thailand,#Travel,#Culture,#Food"
+tags: "Bangkok,Thailand,Travel,Culture,Food"
 date: 2023-07-09 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_2.jpg

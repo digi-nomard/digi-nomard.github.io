@@ -3,7 +3,7 @@ layout: post
 title: "Thailand Phuket: The Pearl of the Andaman Sea"
 topic: "Phuket: The Pearl of the Andaman Sea"
 description: "Phuket, a tropical paradise nestled in the Andaman Sea. With its stunning beaches, vibrant culture, and exciting nightlife, Phuket has something for everyone."
-tags: "#Phuket,#AndamanSea,#TropicalParadise,#Beaches,#Culture,#IslandHopping,#Cuisine,#Nightlife"
+tags: "Phuket,AndamanSea,TropicalParadise,Beaches,Culture,IslandHopping,Cuisine,Nightlife"
 date: 2023-07-07 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_1.jpg

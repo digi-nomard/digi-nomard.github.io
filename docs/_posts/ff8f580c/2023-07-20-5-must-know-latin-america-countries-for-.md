@@ -3,7 +3,7 @@ layout: post
 title: "5 Must-Know Latin America Countries for Your Trip"
 topic: "Latin America Countries for trip"
 description: "Embark on a Latin American Odyssey: 5 Must-Know Countries for Your Trip. From Mexico to Costa Rica, discover stunning landscapes and vibrant cultures"
-tags: "#LatinAmerica #TravelInspo #MustVisit #AdventureAwaits #StunningLandscapes #VibrantCulture #UnforgettableExperiences"
+tags: "LatinAmerica,TravelInspo,MustVisit,AdventureAwaits,StunningLandscapes,VibrantCulture,UnforgettableExperiences"
 date: 2023-07-20 00:00:00 UTC+09:00"
 categories: 
 image: images/intro_7.jpg
