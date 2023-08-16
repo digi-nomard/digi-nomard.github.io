@@ -40,6 +40,15 @@ class Utils:
                     title = re.sub(r"[^\w\s-]", "", title).strip()
                     # remove spaces and lower
                     title = title.replace(" ", "-").lower()[:40]
+                    # get tags
+                    # tags_searc = re.search(r"tags: (.*)", md_file_content)
+                    # if tags_searc:
+                    #     oldTags = tags_searc.group(1)
+                    #     newTags = oldTags.replace(' #', ',').replace('#', '')
+                    #     # save changes
+                    #     md_file_content = md_file_content.replace(oldTags, newTags)
+                    #     open(md_file, "w", encoding="utf-8").write(md_file_content)
+                    
                     # rename md file
                     newfilename = date + "-" + title + ".md"
                     if file != newfilename:

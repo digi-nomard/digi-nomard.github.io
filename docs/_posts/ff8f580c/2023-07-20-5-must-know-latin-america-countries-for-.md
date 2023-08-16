@@ -2,7 +2,7 @@
 layout: post
 title: "5 Must-Know Latin America Countries for Your Trip"
 topic: "Latin America Countries for trip"
-description: "title: 5MustKnowLatinAmericaCountriesforYourTripGetreadyforanunforgettableadventureinLatinAmerica!Discoverfivemustvisitcountriesthatofferstunninglandscapes,vibrantcultures,andphenomenalexperiences.Heading:MexicoHeading:BrazilHeading:ArgentinaHeading:PeruHeading:CostaRica"
+description: "Embark on a Latin American Odyssey: 5 Must-Know Countries for Your Trip. From Mexico to Costa Rica, discover stunning landscapes and vibrant cultures"
 tags: "#LatinAmerica #TravelInspo #MustVisit #AdventureAwaits #StunningLandscapes #VibrantCulture #UnforgettableExperiences"
 date: 2023-07-20 00:00:00 UTC+09:00"
 categories: 
