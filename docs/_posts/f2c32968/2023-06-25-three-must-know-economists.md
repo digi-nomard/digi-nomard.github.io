@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Three Must-Know Economists"
-description: "Explore three influential economists: Adam Smith's invisible hand, Keynes' policies, and Friedman's free-market ideas. #Economists #InfluentialThinkers"
+description: "Explore three influential economists: Adam Smith's invisible hand, Keynes' policies, and Friedman's free-market ideas."
+tags: "
+Economy, InfluentialThinkers, AdamSmith, JohnMaynardKeynes, MiltonFriedman, EconomicContributions"
 date: 2023-06-25 00:00:00 UTC+09:00"
 categories: [ Economy ]
 image: images/intro_1.jpg

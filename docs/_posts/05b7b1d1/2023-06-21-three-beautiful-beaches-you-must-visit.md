@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Three Beautiful Beaches You Must Visit"
-description: "Discover three breathtakingly beautiful beaches! Whitehaven, Bora Bora, Anse Source d'Argent—a must-see for beach enthusiasts. #Travel #BeachParadise #DreamDestinations"
+description: "Discover three breathtakingly beautiful beaches! Whitehaven, Bora Bora, Anse Source d'Argent—a must-see for beach enthusiasts."
+tags: "Travel, BeachParadise, DreamDestinations, BeautifulBeaches, BeachGetaway, TropicalParadise"
 date: 2023-06-21 07:00:00 GMT+9
 categories: [Travel]
 image: images/Beautiful_Beaches_Image_1.jpg

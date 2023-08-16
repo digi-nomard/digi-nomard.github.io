@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Three Must-Know Facts about Canada 1000 Island Traveling"
-description: "Discover Canada's 1000 Islands in this must-read blog post. Stunning landscapes, rich history, and thrilling adventures await! #Travel #Canada #1000Islands #Adventure #Explore"
+description: "Discover Canada's 1000 Islands in this must-read blog post. Stunning landscapes, rich history, and thrilling adventures await!"
+tags: "canada1000islands, breathtakinglandscapes, richhistoryculture, outdooradventures, traveldestination, mustknowfacts"
 date: 2023-06-27 00:00:00 UTC+09:00"
 categories: [Travel]
 image: images/intro_1.jpg

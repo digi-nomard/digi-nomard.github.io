@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "3 Essential Tips for Waking Up Early"
-description: "Discover valuable insights on waking up early: establish a sleep routine, create a morning ritual, optimize your sleep environment. #WakeUpEarly #MorningRoutine #SleepWell #ProductivityTips"
+description: "Discover valuable insights on waking up early: establish a sleep routine, create a morning ritual, optimize your sleep environment."
+tags: "MorningGoals, RiseAndShine, HealthyHabits, ProductiveMornings, SleepBetter, StartYourDayRight"
 date: 2023-06-20 07:00:00 GMT+9
 categories: [ Habit ]
 image: images/How_to_wake_up_early_Image_1.jpg

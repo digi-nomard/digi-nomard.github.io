@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Three Breakfast Foods You Must Know"
-description: "Kick-start your day with nutritious breakfast choices: fiber-rich #Oatmeal, protein-packed #Eggs, and creamy #GreekYogurt. Stay energized! #HealthyBreakfast #NutritionTips"
+description: "Kick-start your day with nutritious breakfast choices: fiber-rich #Oatmeal, protein-packed #Eggs, and creamy #GreekYogurt. Stay energized!"
+tags: "Breakfast, Oatmeal, Eggs, GreekYogurt, NutritiousStart, HealthyHabits, EnergyBoost"
 date: 2023-06-23 00:00:00 UTC+09:00"
 categories: [ Habit ]
 image: images/Food_for_breakfast_Image_1.jpg
