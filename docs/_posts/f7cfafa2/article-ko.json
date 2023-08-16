@@ -1,1 +1,103 @@
-{"topic": "좋은 습관", "title": "꼭 알아야 할 5가지 좋은 습관", "uuid": "f7cfafa2", "intro": {"content": "더 건강하고 만족스러운 삶을 위해 모두가 채택해야 할 5가지 필수 좋은 습관을 살펴 보겠습니다.", "images": ["images/intro_5.jpg"]}, "main": [{"heading": "1. 규칙적인 운동", "tag": "운동", "detail": {"content": "규칙적인 운동은 신체 건강을 개선하고 기분을 좋게 하며 전반적인 에너지 수준을 높이는 데 도움이 됩니다. 걷기, 조깅, 자전거 타기 또는 요가 연습과 같은 활동이 포함될 수 있습니다.", "images": ["images/main1_9.jpg", "images/main1_8.jpg", "images/main1_7.jpg", "images/main1_6.jpg", "images/main1_5.jpg", "images/main1_4.jpg", "images/main1_3.jpg", "images/main1_2.jpg", "images/main1_1.jpg"]}}, {"heading": "2. 건강한 식습관", "tag": "건강한 식생활", "detail": {"content": "과일, 채소, 통곡물 및 기름기 없는 단백질이 풍부한 균형 잡힌 식단을 유지하면 최적의 신체 기능을 지원하고 정신적 명료성을 향상시키며 만성 질환의 위험을 낮춥니다.", "images": ["images/main2_6.jpg", "images/main2_5.png", "images/main2_4.jpg", "images/main2_3.jpg", "images/main2_2.png", "images/main2_1.jpg"]}}, {"heading": "3. 충분한 수면", "tag": "충분한 수면", "detail": {"content": "충분한 수면을 취하는 것은 신체적, 정신적 웰빙에 필수적입니다. 적절한 수면은 인지 기능, 기억력 유지를 개선하고 당뇨병 및 심장병과 같은 만성 질환 발병 위험을 줄이는 데 도움이 됩니다.", "images": ["images/main3_6.png", "images/main3_5.jpg", "images/main3_4.jpg", "images/main3_3.jpg", "images/main3_2.jpg", "images/main3_1.jpg"]}}, {"heading": "4. 매일 명상", "tag": "심사 숙고", "detail": {"content": "매일 명상을 연습하면 마음챙김이 향상되고 스트레스 수준이 감소하며 정서적 웰빙이 향상되고 내면의 평화와 명료함이 촉진됩니다.", "images": ["images/main4_5.jpg", "images/main4_4.jpg", "images/main4_3.jpg", "images/main4_2.jpg", "images/main4_1.jpg"]}}, {"heading": "5. 평생학습", "tag": "평생 학습", "detail": {"content": "지속적으로 지식을 찾고 새로운 기술을 배우는 것은 개인의 성장과 발전을 촉진합니다. 지평을 넓히고 창의성을 높이며 삶의 다양한 측면에서 자신감과 적응력을 높입니다.", "images": ["images/main5_6.jpg", "images/main5_5.jpg", "images/main5_4.jpg", "images/main5_3.jpg", "images/main5_2.png", "images/main5_1.jpg"]}}], "conclusion": {"content": "이 5가지 좋은 습관을 일상에 적용하면 전반적인 웰빙에 긍정적인 변화를 경험하고 보다 만족스러운 삶을 영위할 수 있습니다.", "images": ["images/intro_4.jpg", "images/intro_3.jpg", "images/intro_2.jpg", "images/intro_1.jpg"]}, "lang": "ko", "description": "Sure! Here are 7 hashtags for your blog description:\n\n#goodhabits #healthylifestyle #wellness #dailyexercise #healthyhabits #selfcare #lifelonglearning", "tags": "#건강 #습관 #운동 #식습관 #수면 #명상 #평생학습", "description-pass": true}
+{
+	"topic": "좋은 습관",
+	"title": "꼭 알아야 할 5가지 좋은 습관",
+	"uuid": "f7cfafa2",
+	"intro": {
+		"content": "더 건강하고 만족스러운 삶을 위해 모두가 채택해야 할 5가지 필수 좋은 습관을 살펴 보겠습니다.",
+		"images": [
+			"images/intro_5.jpg"
+		]
+	},
+	"main": [
+		{
+			"heading": "1. 규칙적인 운동",
+			"tag": "운동",
+			"detail": {
+				"content": "규칙적인 운동은 신체 건강을 개선하고 기분을 좋게 하며 전반적인 에너지 수준을 높이는 데 도움이 됩니다. 걷기, 조깅, 자전거 타기 또는 요가 연습과 같은 활동이 포함될 수 있습니다.",
+				"images": [
+					"images/main1_9.jpg",
+					"images/main1_8.jpg",
+					"images/main1_7.jpg",
+					"images/main1_6.jpg",
+					"images/main1_5.jpg",
+					"images/main1_4.jpg",
+					"images/main1_3.jpg",
+					"images/main1_2.jpg",
+					"images/main1_1.jpg"
+				]
+			}
+		},
+		{
+			"heading": "2. 건강한 식습관",
+			"tag": "건강한 식생활",
+			"detail": {
+				"content": "과일, 채소, 통곡물 및 기름기 없는 단백질이 풍부한 균형 잡힌 식단을 유지하면 최적의 신체 기능을 지원하고 정신적 명료성을 향상시키며 만성 질환의 위험을 낮춥니다.",
+				"images": [
+					"images/main2_6.jpg",
+					"images/main2_5.png",
+					"images/main2_4.jpg",
+					"images/main2_3.jpg",
+					"images/main2_2.png",
+					"images/main2_1.jpg"
+				]
+			}
+		},
+		{
+			"heading": "3. 충분한 수면",
+			"tag": "충분한 수면",
+			"detail": {
+				"content": "충분한 수면을 취하는 것은 신체적, 정신적 웰빙에 필수적입니다. 적절한 수면은 인지 기능, 기억력 유지를 개선하고 당뇨병 및 심장병과 같은 만성 질환 발병 위험을 줄이는 데 도움이 됩니다.",
+				"images": [
+					"images/main3_6.png",
+					"images/main3_5.jpg",
+					"images/main3_4.jpg",
+					"images/main3_3.jpg",
+					"images/main3_2.jpg",
+					"images/main3_1.jpg"
+				]
+			}
+		},
+		{
+			"heading": "4. 매일 명상",
+			"tag": "심사 숙고",
+			"detail": {
+				"content": "매일 명상을 연습하면 마음챙김이 향상되고 스트레스 수준이 감소하며 정서적 웰빙이 향상되고 내면의 평화와 명료함이 촉진됩니다.",
+				"images": [
+					"images/main4_5.jpg",
+					"images/main4_4.jpg",
+					"images/main4_3.jpg",
+					"images/main4_2.jpg",
+					"images/main4_1.jpg"
+				]
+			}
+		},
+		{
+			"heading": "5. 평생학습",
+			"tag": "평생 학습",
+			"detail": {
+				"content": "지속적으로 지식을 찾고 새로운 기술을 배우는 것은 개인의 성장과 발전을 촉진합니다. 지평을 넓히고 창의성을 높이며 삶의 다양한 측면에서 자신감과 적응력을 높입니다.",
+				"images": [
+					"images/main5_6.jpg",
+					"images/main5_5.jpg",
+					"images/main5_4.jpg",
+					"images/main5_3.jpg",
+					"images/main5_2.png",
+					"images/main5_1.jpg"
+				]
+			}
+		}
+	],
+	"conclusion": {
+		"content": "이 5가지 좋은 습관을 일상에 적용하면 전반적인 웰빙에 긍정적인 변화를 경험하고 보다 만족스러운 삶을 영위할 수 있습니다.",
+		"images": [
+			"images/intro_4.jpg",
+			"images/intro_3.jpg",
+			"images/intro_2.jpg",
+			"images/intro_1.jpg"
+		]
+	},
+	"lang": "ko",
+	"description": "건강한 삶을 위한 필수 5가지 습관 알아보기. 규칙적인 운동, 건강한 식습관, 충분한 수면, 매일 명상, 평생 학습의 중요성을 알아보세요.",
+	"tags": "#건강 #습관 #운동 #식습관 #수면 #명상 #평생학습",
+	"description-pass": true
+}

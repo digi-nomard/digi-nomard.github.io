@@ -2,7 +2,7 @@
 layout: post
 title: "5 French Movies You Must Know"
 topic: "French Movies"
-description: "title: Discover the Power of Adaptogens: Boost Energy, Reduce Stress & Enhance Well-beingDiscover the amazing benefits of adaptogens for boosting energy levels, reducing stress, and promoting overall well-being. Explore their transformative properties in this comprehensive guide.Heading: adaptogensHeading: energy boostHeading: stress reductionHeading: wellness enhancementHeading: natural remedies"
+description: "Dive into French cinema's heart & soul. Explore 5 captivating movies - Amélie, The Intouchables, Amour, La Haine, The Artist."
 tags: "#FrenchMovies #Cinema #Amélie #TheIntouchables #Amour #LaHaine #TheArtist #FilmLovers #ForeignFilms #Culture"
 date: 2023-07-15 00:00:00 UTC+09:00"
 categories: 

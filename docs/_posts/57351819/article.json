@@ -1,1 +1,112 @@
-{"topic": "French Movies", "title": "5 French Movies You Must Know", "uuid": "57351819", "intro": {"content": "French movies provide a lens into the heart of French culture, from its artistic expression to societal reflections, offering a unique and immersive cinematic experience. We will explore five must-know French movies that have captivated audiences worldwide.", "images": ["images/intro_14.jpeg"]}, "main": [{"heading": "Amélie", "tag": "Amelie", "detail": {"content": "Amélie is a whimsical romantic comedy that follows the charming Amélie Poulain on her quest to bring happiness to those around her in Paris.", "images": ["images/main1_14.jpg", "images/main1_13.jpg", "images/main1_12.jpg", "images/main1_11.png", "images/main1_10.jpg", "images/main1_9.png", "images/main1_8.jpg"]}}, {"heading": "The Intouchables", "tag": "Intouchables", "detail": {"content": "The Intouchables is a heartwarming true story about an unlikely friendship between a wealthy quadriplegic and his exuberant caregiver.", "images": ["images/main2_16.jpg", "images/main2_15.jpg", "images/main2_14.jpg", "images/main2_13.jpg", "images/main2_12.jpg", "images/main2_11.jpg", "images/main2_10.jpg", "images/main2_9.jpg"]}}, {"heading": "Amour", "tag": "Amour", "detail": {"content": "Amour is a deeply emotional film that explores the complexities of love and aging as an elderly couple face the challenges of illness and mortality.", "images": ["images/main3_7.jpg", "images/main3_6.jpg", "images/main3_5.jpg", "images/main3_4.jpg", "images/main3_3.jpg", "images/main3_2.jpg", "images/main3_1.jpg"]}}, {"heading": "La Haine", "tag": "La Haine", "detail": {"content": "La Haine is a gritty drama that follows three friends from different ethnic backgrounds as they navigate the violent and oppressive suburbs of Paris.", "images": ["images/main4_8.jpg", "images/main4_7.jpg", "images/main4_6.jpeg", "images/main4_5.jpg", "images/main4_4.jpg", "images/main4_3.jpg", "images/main4_2.jpg", "images/main4_1.jpg"]}}, {"heading": "The Artist", "tag": "The Artist", "detail": {"content": "The Artist is a silent black-and-white film that pays homage to the golden age of Hollywood and tells the story of a struggling actor during the transition to talkies.", "images": ["images/main5_9.jpg", "images/main5_8.jpg", "images/main5_7.jpg", "images/main5_6.jpg", "images/main5_5.jpg", "images/main5_4.jpg", "images/main5_3.jpg", "images/main5_2.jpg", "images/main5_1.jpg"]}}], "conclusion": {"content": "These five French movies showcase the diversity and brilliance of French cinema, offering a captivating experience for film lovers around the world.", "images": ["images/intro_13.png", "images/intro_12.jpg", "images/intro_11.jpg", "images/intro_10.jpg", "images/intro_9.jpg", "images/intro_8.jpg"]}, "lang": "en", "description": "title: Discover the Power of Adaptogens: Boost Energy, Reduce Stress & Enhance Well-beingDiscover the amazing benefits of adaptogens for boosting energy levels, reducing stress, and promoting overall well-being. Explore their transformative properties in this comprehensive guide.Heading: adaptogensHeading: energy boostHeading: stress reductionHeading: wellness enhancementHeading: natural remedies", "tags": "#FrenchMovies #Cinema #Amélie #TheIntouchables #Amour #LaHaine #TheArtist #FilmLovers #ForeignFilms #Culture", "description-pass": true}
+{
+	"topic": "French Movies",
+	"title": "5 French Movies You Must Know",
+	"uuid": "57351819",
+	"intro": {
+		"content": "French movies provide a lens into the heart of French culture, from its artistic expression to societal reflections, offering a unique and immersive cinematic experience. We will explore five must-know French movies that have captivated audiences worldwide.",
+		"images": [
+			"images/intro_14.jpeg"
+		]
+	},
+	"main": [
+		{
+			"heading": "Amélie",
+			"tag": "Amelie",
+			"detail": {
+				"content": "Amélie is a whimsical romantic comedy that follows the charming Amélie Poulain on her quest to bring happiness to those around her in Paris.",
+				"images": [
+					"images/main1_14.jpg",
+					"images/main1_13.jpg",
+					"images/main1_12.jpg",
+					"images/main1_11.png",
+					"images/main1_10.jpg",
+					"images/main1_9.png",
+					"images/main1_8.jpg"
+				]
+			}
+		},
+		{
+			"heading": "The Intouchables",
+			"tag": "Intouchables",
+			"detail": {
+				"content": "The Intouchables is a heartwarming true story about an unlikely friendship between a wealthy quadriplegic and his exuberant caregiver.",
+				"images": [
+					"images/main2_16.jpg",
+					"images/main2_15.jpg",
+					"images/main2_14.jpg",
+					"images/main2_13.jpg",
+					"images/main2_12.jpg",
+					"images/main2_11.jpg",
+					"images/main2_10.jpg",
+					"images/main2_9.jpg"
+				]
+			}
+		},
+		{
+			"heading": "Amour",
+			"tag": "Amour",
+			"detail": {
+				"content": "Amour is a deeply emotional film that explores the complexities of love and aging as an elderly couple face the challenges of illness and mortality.",
+				"images": [
+					"images/main3_7.jpg",
+					"images/main3_6.jpg",
+					"images/main3_5.jpg",
+					"images/main3_4.jpg",
+					"images/main3_3.jpg",
+					"images/main3_2.jpg",
+					"images/main3_1.jpg"
+				]
+			}
+		},
+		{
+			"heading": "La Haine",
+			"tag": "La Haine",
+			"detail": {
+				"content": "La Haine is a gritty drama that follows three friends from different ethnic backgrounds as they navigate the violent and oppressive suburbs of Paris.",
+				"images": [
+					"images/main4_8.jpg",
+					"images/main4_7.jpg",
+					"images/main4_6.jpeg",
+					"images/main4_5.jpg",
+					"images/main4_4.jpg",
+					"images/main4_3.jpg",
+					"images/main4_2.jpg",
+					"images/main4_1.jpg"
+				]
+			}
+		},
+		{
+			"heading": "The Artist",
+			"tag": "The Artist",
+			"detail": {
+				"content": "The Artist is a silent black-and-white film that pays homage to the golden age of Hollywood and tells the story of a struggling actor during the transition to talkies.",
+				"images": [
+					"images/main5_9.jpg",
+					"images/main5_8.jpg",
+					"images/main5_7.jpg",
+					"images/main5_6.jpg",
+					"images/main5_5.jpg",
+					"images/main5_4.jpg",
+					"images/main5_3.jpg",
+					"images/main5_2.jpg",
+					"images/main5_1.jpg"
+				]
+			}
+		}
+	],
+	"conclusion": {
+		"content": "These five French movies showcase the diversity and brilliance of French cinema, offering a captivating experience for film lovers around the world.",
+		"images": [
+			"images/intro_13.png",
+			"images/intro_12.jpg",
+			"images/intro_11.jpg",
+			"images/intro_10.jpg",
+			"images/intro_9.jpg",
+			"images/intro_8.jpg"
+		]
+	},
+	"lang": "en",
+	"description": "Dive into French cinema's heart & soul. Explore 5 captivating movies - Amélie, The Intouchables, Amour, La Haine, The Artist.",
+	"tags": "#FrenchMovies #Cinema #Amélie #TheIntouchables #Amour #LaHaine #TheArtist #FilmLovers #ForeignFilms #Culture",
+	"description-pass": true
+}

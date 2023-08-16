@@ -2,7 +2,7 @@
 layout: post
 title: "5 Japanese Movies You Must Know"
 topic: "Japanese Movies"
-description: "title: 5 Fascinating Japanese MoviesDiscover the captivating worlds of these 5 must-watch Japanese movies that have garnered global recognition and acclaim.Heading: AkiraHeading: Spirited AwayHeading: RashomonHeading: Seven SamuraiHeading: Battle Royale"
+description: "Exploring Japanese Cinema: 5 Must-Watch Films. Dive into the worlds of Akira, Spirited Away, Rashomon, Seven Samurai, and Battle Royale"
 tags: "#JapaneseMovies #MustWatchFilms #Akira #SpiritedAway #Rashomon #SevenSamurai #BattleRoyale"
 date: 2023-07-19 00:00:00 UTC+09:00"
 categories: 
