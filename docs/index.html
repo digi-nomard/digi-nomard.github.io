@@ -14,7 +14,7 @@ background: '/img/bg-index.jpg'
       <h1 class="font-weight-bold mb-4 serif-font">{{ site.about }}</h1>
       <p class="lead mb-4">{{ site.about_detail }}</p>
       <!-- <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a> -->
-      <a href="{{site.baseurl}}/korean/" class="btn btn-dark text-white px-6 btn-lg">Korean</a>
+      <!-- <a href="{{site.baseurl}}/korean/" class="btn btn-dark text-white px-6 btn-lg">Korean</a> -->
       <a href="{{site.baseurl}}/english/" class="btn btn-dark text-white px-6 btn-lg">English</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
@@ -28,7 +28,7 @@ background: '/img/bg-index.jpg'
 ================================================== -->
 <section class="row">
   {% for post in site.posts %}
-      {% if post.featured == true %}
+      {% if post.lang == 'ko' and post.featured == true %}
           <div class="col-md-4 mb-5">
           {% include postbox.html %}
           </div>
@@ -43,11 +43,11 @@ background: '/img/bg-index.jpg'
   <div class="col-sm-8">
     <div class="row">
       {% for post in paginator.posts %}
-      {% unless post.featured == true %}
+      {% if post.lang == 'ko' %}
       <div class="col-md-12 mb-5">
         {% include postbox-row.html %}
       </div>
-      {% endunless %}
+      {% endif %}
       {% endfor %}
     </div>
     <!-- Pagination -->
